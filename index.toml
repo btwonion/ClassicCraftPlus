@@ -1,12 +1,56 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+file = "config/NoChatReports/NCR-Client.json"
+hash = "45e1cd69eee1e90eb412742f159570ea92d77bde8e2204a98da4f086ee16783b"
 
 [[files]]
-file = "README.md"
-hash = "567d407c87c81ee79427cba6574db395300f9af4ca6cbda1cd6f61b3efda27ce"
+file = "config/NoChatReports/NCR-Common.json"
+hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
+
+[[files]]
+file = "config/NoChatReports/NCR-Encryption.json"
+hash = "df34a1ed7b309c08deaf42c906fa2ea6f29bb3bf8395ce26593fac4834938496"
+
+[[files]]
+file = "config/NoChatReports/NCR-ServerPreferences.json"
+hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
+
+[[files]]
+file = "config/betterf3.json"
+hash = "45c216f8bce2b2857a53cff4fc57f52bdb6c99f638ce878ae82eb39e1560a9e6"
+
+[[files]]
+file = "config/blur.json"
+hash = "1d6d6638e9cd863518ab1579e4055bd42d622ce0eecc5d857ca6ac9f03e63305"
+
+[[files]]
+file = "config/borderlessmining.json"
+hash = "97d88071650e42b4c23540a24de6c7d5d72febd593efd33f7290a9352c169cfe"
+
+[[files]]
+file = "config/freecam.json5"
+hash = "246c378080873f33771ab7e5e6e65ffa3c99e8595a45edb1e623ee6ea54f89d3"
+
+[[files]]
+file = "config/moredetails.json"
+hash = "dbfd1a1841dc3b850246df5957cc4aafae4cf544b605035ccb82a352f1e4b06b"
+
+[[files]]
+file = "config/no_fog.json"
+hash = "528c2b8810cf028e695709e01a823436a18e952ce1cbb832572431d87c54f248"
+
+[[files]]
+file = "config/nosey.toml"
+hash = "c2dc4a67ba6bd8515f0a176c81bfd8ac4b10fdc0405ccd7db7ac675d52abee1f"
+
+[[files]]
+file = "config/perspektive.json"
+hash = "c901735866f0dae38e52d1a07096e57a86d1f36a4c27e8a288a9a06713cec3a6"
+
+[[files]]
+file = "config/shulkerboxtooltip.json5"
+hash = "145b22585ed8fa594e0933b7e9863ef00deaa0a11a75e5a39905236abe25df06"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -36,16 +80,6 @@ metafile = true
 [[files]]
 file = "mods/autodrop.pw.toml"
 hash = "388b84efa59c4d4e29def2cf18e0af8b3682196e40df22e7cd85e4c0c490c263"
-metafile = true
-
-[[files]]
-file = "mods/beaconoverhaul.pw.toml"
-hash = "da32829986ff6eabb4e3bd304b6f62e6194581962b439f3c4ee868c0f0e2a736"
-metafile = true
-
-[[files]]
-file = "mods/better-ping-display-fabric.pw.toml"
-hash = "2f353c2f11a14c36f0c3f4a7cd289d0ecdb99df719181db9e81134e74be6b5a0"
 metafile = true
 
 [[files]]
@@ -129,16 +163,6 @@ hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
 
 [[files]]
-file = "mods/easy-magic.pw.toml"
-hash = "bcb8fbe95be8e5183e231ebac69e3872601add32f55cf6b62106fe826b3c6e13"
-metafile = true
-
-[[files]]
-file = "mods/ebe.pw.toml"
-hash = "5d0871bb4dbf85c494447188feb58adb122c61f5f551a0239e6268d7c0327876"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "4b47562757100608c21dc1440a22175d83b1ebedaebf330c22cc04b951e7a477"
 metafile = true
@@ -154,6 +178,11 @@ hash = "7be1e122e9ef8f1b7f2df9ffccf02cf83a52d0a53ae5ba7d07ea7bd3cc149101"
 metafile = true
 
 [[files]]
+file = "mods/fabricskyboxes.pw.toml"
+hash = "42272688975731772ce119e33659091edfff29244dddd147320866c0e5177ee8"
+metafile = true
+
+[[files]]
 file = "mods/forcecloseworldloadingscreen.pw.toml"
 hash = "a43c90eeb2b3942ff228c4c8ad0d137afb03892b7c8f37b95fdf1232cff06994"
 metafile = true
@@ -166,11 +195,6 @@ metafile = true
 [[files]]
 file = "mods/freecam.pw.toml"
 hash = "05fcaf86045f8427b54079a46d2eeb153e786e7eb6bdf21928132df8f5019821"
-metafile = true
-
-[[files]]
-file = "mods/fwaystones.pw.toml"
-hash = "8f13015b3fdc82b91279586dad65c09b2ca141ca383682a7ee70a6f93a9eb707"
 metafile = true
 
 [[files]]
@@ -224,13 +248,13 @@ hash = "c947125039216bc6763671c675dc37b58b14ef2ee7a34270ec66ffb9c11afd8d"
 metafile = true
 
 [[files]]
-file = "mods/nosey.pw.toml"
-hash = "26b458b1024d8845d7ecfff97cf69c08bf95f58f5128f8f88f85e71f2a6b0604"
+file = "mods/no_fog.pw.toml"
+hash = "d7a26d5d922f35e371ef8077cd86fe657f3fb1d787270a43108a61989bf19c05"
 metafile = true
 
 [[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "f403c771795282b22ded95a62cca193f0561ff3c4d7ca6803a5e4f53618c38cd"
+file = "mods/nosey.pw.toml"
+hash = "26b458b1024d8845d7ecfff97cf69c08bf95f58f5128f8f88f85e71f2a6b0604"
 metafile = true
 
 [[files]]
@@ -241,11 +265,6 @@ metafile = true
 [[files]]
 file = "mods/phosphor.pw.toml"
 hash = "466d5892937df5aa05388291463b163b42fa454d8bfd22713484a0167ca3702d"
-metafile = true
-
-[[files]]
-file = "mods/physicsmod.pw.toml"
-hash = "372ebe3085fa710ac0c2789fe7d258da476e3668ba487117471ac16e7a9bb28b"
 metafile = true
 
 [[files]]
@@ -299,23 +318,13 @@ hash = "1bfe834fa9a5065520a42db4b6013abe755b205b76554a4bc2e0a5108e2cc215"
 metafile = true
 
 [[files]]
-file = "mods/terra.pw.toml"
-hash = "a5dc40295dd6048e2f9bd8bbe77910357c8d9a385409067ab7160ddcc4e9dc9a"
-metafile = true
-
-[[files]]
-file = "mods/villagersplus.pw.toml"
-hash = "22733ec9950ddc00e07669071d8fec1c42d60dd4c072e1282b29fefd302e00e1"
-metafile = true
-
-[[files]]
 file = "mods/whoami.pw.toml"
 hash = "92881f23b9835dd0962a51ffb24f12b8f11e881bd8a5a10c63874223ed60e436"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "d731cf839a0288e0393caffbd95d6fda78006a71054be16ac0cb22fe59a889f3"
+hash = "e6324b15f0cc3ac114be6f389643bb11ff410f401299037ec4703fc1bc35961a"
 metafile = true
 
 [[files]]
@@ -359,6 +368,10 @@ hash = "64cc3a69ccf183d56da3c42383918b90da3825877cbb13f712bc671487903120"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "4cf89f8fb58920698a4b49cef35ff3c28ac9d30221145dcd92285c3d6ae2ea00"
+
+[[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
 hash = "d89de388af792c76c809da864b7b2dd4864e325a72d9bd655c85f3753d56047f"
 metafile = true
@@ -370,5 +383,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/hyper-realistic-sky.pw.toml"
-hash = "f00c9a02ecae8fd8758df367cccf58ef29d0dcb71c6c54df2beb5f7c1236ed20"
+hash = "1a5e37a874ea32427f67e94c81ca2a7ef1b4a8eaeaefa5905caecb7f85ba5086"
 metafile = true
