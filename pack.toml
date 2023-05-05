@@ -1,0 +1,13 @@
+name = "onion SMP"
+author = "btwonion"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e948811e229dc5ab33dd7a734ea3389231ed68edade7a049f174095cf10d334e"
+
+[versions]
+fabric = "0.14.19"
+minecraft = "1.19.4"
