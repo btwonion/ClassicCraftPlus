@@ -1,0 +1,13 @@
+name = "Telekinesis"
+filename = "telekinesis-fabric-2.0.0-1.19.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LLfA8jAD/versions/1gvsDzFS/telekinesis-fabric-2.0.0-1.19.4.jar"
+hash-format = "sha1"
+hash = "36e3d27f60f2db37da38f7586e9611d8984f5cbf"
+
+[update]
+[update.modrinth]
+mod-id = "LLfA8jAD"
+version = "1gvsDzFS"
