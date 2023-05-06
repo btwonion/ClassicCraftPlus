@@ -93,11 +93,6 @@ hash = "fa625b7c1043f3d99320c912923fe5670edd3a4b405e94d4920638827762543b"
 metafile = true
 
 [[files]]
-file = "mods/blur-fabric.pw.toml"
-hash = "55c14fd0cba0ae4478945420862cfdec970a5ab40b04a34ce9e3f94b9d721e38"
-metafile = true
-
-[[files]]
 file = "mods/boat-item-view.pw.toml"
 hash = "8f39c1f9a2a5856bc40ccfd3414f8d0e0ec90429dadf4aaf2333790bdcb727cb"
 metafile = true
@@ -198,6 +193,11 @@ hash = "05fcaf86045f8427b54079a46d2eeb153e786e7eb6bdf21928132df8f5019821"
 metafile = true
 
 [[files]]
+file = "mods/fwaystones.pw.toml"
+hash = "8f13015b3fdc82b91279586dad65c09b2ca141ca383682a7ee70a6f93a9eb707"
+metafile = true
+
+[[files]]
 file = "mods/gamma-utils.pw.toml"
 hash = "4b8bdf4dc91b64039b00a10f120d3cd0a32201a4d6c64348acfe90076aa9c20a"
 metafile = true
@@ -255,6 +255,11 @@ metafile = true
 [[files]]
 file = "mods/nosey.pw.toml"
 hash = "26b458b1024d8845d7ecfff97cf69c08bf95f58f5128f8f88f85e71f2a6b0604"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "f403c771795282b22ded95a62cca193f0561ff3c4d7ca6803a5e4f53618c38cd"
 metafile = true
 
 [[files]]
