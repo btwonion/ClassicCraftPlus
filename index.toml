@@ -318,6 +318,11 @@ hash = "1bfe834fa9a5065520a42db4b6013abe755b205b76554a4bc2e0a5108e2cc215"
 metafile = true
 
 [[files]]
+file = "mods/villagersplus-fabric.pw.toml"
+hash = "7a1dc2f0700cbd21ebb8ac29a01d9d8f7ea4d7a7b1a377b9e9eba03e81b7cf1c"
+metafile = true
+
+[[files]]
 file = "mods/whoami.pw.toml"
 hash = "92881f23b9835dd0962a51ffb24f12b8f11e881bd8a5a10c63874223ed60e436"
 metafile = true
