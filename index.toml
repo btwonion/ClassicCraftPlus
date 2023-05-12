@@ -84,7 +84,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "632a5bf67d60ae74e078433d854c470537f4aed8867d59c19ca8928af3b997fc"
+hash = "645fcade048a51fde041592e9d217a2ffc2f53dda2456c518b92716233906035"
 metafile = true
 
 [[files]]
