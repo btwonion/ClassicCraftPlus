@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "287f50e46885679c94837271c345537b8b95761653931665e04ac3f9788c4455"
+
+[[files]]
+file = "config/NoChatReports/NCR-Common.json"
+hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
+
+[[files]]
+file = "config/NoChatReports/NCR-Encryption.json"
+hash = "45f4027b16288786842a792a8263197df73e696406fa72f78eabfd0a544fa181"
+
+[[files]]
+file = "config/NoChatReports/NCR-ServerPreferences.json"
+hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
+
+[[files]]
 file = "config/betterf3.json"
 hash = "9bec0077a0e75eb7a2cb9a7ab0abebe548cc93ede87906b9671b0bff9796692b"
 
@@ -55,6 +71,10 @@ hash = "db00e53a96bb0678376e613c2debc5f29af5e2eeb9d72f0b669d419331645539"
 [[files]]
 file = "config/zoomify.json"
 hash = "8d61a625f65493f3e4f40f5e49cd0d5405b6e105b2d9c005950f78dbfb2095fa"
+
+[[files]]
+file = "install_de.md"
+hash = "2d2c23acad86ab73bf02ccb12c825237b35f6cb7acf01161f2c932c96fd38fb5"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -209,6 +229,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
 hash = "c35942704019f56300b7f38df4d082472062fbaeb23b6b67f7a94f4bbf1b8a1b"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "d613ab357290e506067edf33a001e80a821f06e3872c81a0c0d018c772bb8a26"
 metafile = true
 
 [[files]]
