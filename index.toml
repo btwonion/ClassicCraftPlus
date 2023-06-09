@@ -73,10 +73,6 @@ file = "config/zoomify.json"
 hash = "8d61a625f65493f3e4f40f5e49cd0d5405b6e105b2d9c005950f78dbfb2095fa"
 
 [[files]]
-file = "install_de.md"
-hash = "2d2c23acad86ab73bf02ccb12c825237b35f6cb7acf01161f2c932c96fd38fb5"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "05ac5655886661106bb34a8a898d47fd317577f7f44519693be882c7a73c64b8"
 metafile = true
