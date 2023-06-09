@@ -248,6 +248,11 @@ hash = "a1d419cad5a32a4a442b37b2e2fe2db3e761429d6ab60dd3bb79f43d36df2297"
 metafile = true
 
 [[files]]
+file = "mods/reinforced-chests.pw.toml"
+hash = "5ae921c0a1fd4d3fb6505d5f94b1e6744166eb819261fce551e5939706689d1d"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "d493589a9743da84d5f7667dd418793870bb928cd0fcc72d59b98ad4f2dfe5c0"
 metafile = true
