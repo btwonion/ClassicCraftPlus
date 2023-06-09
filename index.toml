@@ -148,18 +148,8 @@ hash = "0d1b70e6b6851d0b765fc94d5c6f9201eaee8201bacc2d2604db15b2ab2b3364"
 metafile = true
 
 [[files]]
-file = "mods/debugify.pw.toml"
-hash = "a3ef0ef31a8279dfb6ff25e78083291a483109b624e90946d7d0de13d9ff35a3"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "31713296359c70914a4fc56d32a61f41620af105819f826bbffbb234591d34fe"
-metafile = true
-
-[[files]]
-file = "mods/expanded-storage.pw.toml"
-hash = "5c1c6f66feb032106c9615fd97f4fefc1fa9b1bddfc0795fa9121e9589705d84"
 metafile = true
 
 [[files]]
