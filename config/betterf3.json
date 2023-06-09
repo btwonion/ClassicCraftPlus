@@ -16,25 +16,6 @@
 	},
 	"modules_right": [
 		{
-			"name": "system",
-			"name_color": 16755200,
-			"value_color": 5636095,
-			"lines": {
-				"opengl_version": true,
-				"allocation_rate": true,
-				"display": true,
-				"java_version": true,
-				"gpu_driver": true,
-				"memory_usage": true,
-				"allocated_memory": true,
-				"cpu": true,
-				"gpu_utilization": true,
-				"time": true,
-				"gpu": true
-			},
-			"enabled": true
-		}, 
-		{
 			"name": "target",
 			"name_color": 43775,
 			"value_color": 16777045,
@@ -73,19 +54,6 @@
 			},
 			"enabled": true,
 			"color_low": 16733525
-		}, 
-		{
-			"name": "graphics",
-			"name_color": 16755200,
-			"value_color": 5636095,
-			"lines": {
-				"shader": true,
-				"render_distance": true,
-				"graphics": true,
-				"clouds": true,
-				"biome_blend_radius": true
-			},
-			"enabled": true
 		}, 
 		{
 			"color_x": 16733525,

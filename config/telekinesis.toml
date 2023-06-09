@@ -1,0 +1,7 @@
+onByDefault = false
+enchantment = true
+blockDrops = true
+expDrops = true
+mobDrops = true
+entityDrops = true
+shearingDrops = true
