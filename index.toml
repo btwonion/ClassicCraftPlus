@@ -1,56 +1,60 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/NoChatReports/NCR-Client.json"
-hash = "45e1cd69eee1e90eb412742f159570ea92d77bde8e2204a98da4f086ee16783b"
-
-[[files]]
-file = "config/NoChatReports/NCR-Common.json"
-hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
-
-[[files]]
-file = "config/NoChatReports/NCR-Encryption.json"
-hash = "df34a1ed7b309c08deaf42c906fa2ea6f29bb3bf8395ce26593fac4834938496"
-
-[[files]]
-file = "config/NoChatReports/NCR-ServerPreferences.json"
-hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
-
-[[files]]
 file = "config/betterf3.json"
-hash = "45c216f8bce2b2857a53cff4fc57f52bdb6c99f638ce878ae82eb39e1560a9e6"
+hash = "9bec0077a0e75eb7a2cb9a7ab0abebe548cc93ede87906b9671b0bff9796692b"
 
 [[files]]
-file = "config/blur.json"
-hash = "1d6d6638e9cd863518ab1579e4055bd42d622ce0eecc5d857ca6ac9f03e63305"
+file = "config/expandedstorage.json"
+hash = "f9d9187aa13720c1fb62eb93e9b1a2b680d8757da312047113c5007de287a8b0"
 
 [[files]]
-file = "config/borderlessmining.json"
-hash = "97d88071650e42b4c23540a24de6c7d5d72febd593efd33f7290a9352c169cfe"
+file = "config/fwaystones/config.json5"
+hash = "3c8015685a1b3a5be6b5071148e8f23473de23ba22579646dd267a0bbf325697"
 
 [[files]]
-file = "config/freecam.json5"
-hash = "246c378080873f33771ab7e5e6e65ffa3c99e8595a45edb1e623ee6ea54f89d3"
+file = "config/gamma_utils.json5"
+hash = "af3421a968736d0014ee7510aea0dd2aa2c2013c68aa9bd1a9a7d1acd9f6f723"
+
+[[files]]
+file = "config/iris.properties"
+hash = "37bb936f1c3ed7f696ba1ec637e4df6a98da4237137d17ce9705d1e8141a3129"
 
 [[files]]
 file = "config/moredetails.json"
-hash = "dbfd1a1841dc3b850246df5957cc4aafae4cf544b605035ccb82a352f1e4b06b"
+hash = "f28280eff5de2103567af6af53a88e7e1c0fa0486a3724700bc534337afc65c2"
 
 [[files]]
-file = "config/no_fog.json"
-hash = "528c2b8810cf028e695709e01a823436a18e952ce1cbb832572431d87c54f248"
-
-[[files]]
-file = "config/nosey.toml"
-hash = "c2dc4a67ba6bd8515f0a176c81bfd8ac4b10fdc0405ccd7db7ac675d52abee1f"
-
-[[files]]
-file = "config/perspektive.json"
-hash = "c901735866f0dae38e52d1a07096e57a86d1f36a4c27e8a288a9a06713cec3a6"
+file = "config/mousewheelie.hjson"
+hash = "c3df13ca790b4db7188a84100fb5e5e60969cc2f814fa26fb61f126b6f80aaaa"
 
 [[files]]
 file = "config/shulkerboxtooltip.json5"
 hash = "145b22585ed8fa594e0933b7e9863ef00deaa0a11a75e5a39905236abe25df06"
+
+[[files]]
+file = "config/telekinesis.toml"
+hash = "4eabf2d09e035aa41aada1f7cf582f2ee3eafa82422f2fe894cd570718487ba6"
+
+[[files]]
+file = "config/voicechat/translations.properties"
+hash = "6a521191220fe44d145da9a855fed277d9a19f4c09165425e64a2c7a03758ebb"
+
+[[files]]
+file = "config/voicechat/username-cache.json"
+hash = "8916b532833b16c34ac034d24601932d1b6ca99af3445f7af69060dc86bb72f8"
+
+[[files]]
+file = "config/voicechat/voicechat-client.properties"
+hash = "2b7283577efa57cad6280629dc018b8b6354873cb027e14d0b35bda0e82d4a84"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "db00e53a96bb0678376e613c2debc5f29af5e2eeb9d72f0b669d419331645539"
+
+[[files]]
+file = "config/zoomify.json"
+hash = "8d61a625f65493f3e4f40f5e49cd0d5405b6e105b2d9c005950f78dbfb2095fa"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -276,6 +280,10 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "fe67f559bf7c07593f1eb0e3cfabb56635de7e566b26241559452dc04484bd4e"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "77cfdf3dd6c067578e43b4d893d6b91275d62d6e4bc9d509c5628f4710a1df00"
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
