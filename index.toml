@@ -46,7 +46,7 @@ hash = "c3df13ca790b4db7188a84100fb5e5e60969cc2f814fa26fb61f126b6f80aaaa"
 
 [[files]]
 file = "config/shulkerboxtooltip.json5"
-hash = "145b22585ed8fa594e0933b7e9863ef00deaa0a11a75e5a39905236abe25df06"
+hash = "526dedf32b740e3c410296027ef59e36ed3e2b35145a8d25f1a6a9bf752aa39d"
 
 [[files]]
 file = "config/telekinesis.toml"
