@@ -26,7 +26,7 @@ hash = "f9d9187aa13720c1fb62eb93e9b1a2b680d8757da312047113c5007de287a8b0"
 
 [[files]]
 file = "config/fwaystones/config.json5"
-hash = "3c8015685a1b3a5be6b5071148e8f23473de23ba22579646dd267a0bbf325697"
+hash = "01b190f78d3647f465654b125413c256e2e8e3b68a77ba766017bc24d2295415"
 
 [[files]]
 file = "config/gamma_utils.json5"
