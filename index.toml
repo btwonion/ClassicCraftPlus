@@ -69,6 +69,10 @@ file = "config/voicechat/voicechat-server.properties"
 hash = "db00e53a96bb0678376e613c2debc5f29af5e2eeb9d72f0b669d419331645539"
 
 [[files]]
+file = "config/xaerominimap.txt"
+hash = "a90288411279ec5297bef5348f6fa83aeb70bbd7f25c37f438b4fcac41349ddf"
+
+[[files]]
 file = "config/zoomify.json"
 hash = "8d61a625f65493f3e4f40f5e49cd0d5405b6e105b2d9c005950f78dbfb2095fa"
 
@@ -123,8 +127,18 @@ hash = "c4433d59883d98e778c0ad54088f2b04ae2ccc33406f394780244c3734a5d136"
 metafile = true
 
 [[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "df2193eacad72752c0f6b709319c1c20300153779d845af2e9d7f91b5854222d"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "b9cc3ddd40c728549f8de8db2b211a534303018bf8c18d22871ad17f62c47118"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "3fdbb304a0534e226796d5ba01b3854ed27e1e60bad665c921daae5b18b800eb"
 metafile = true
 
 [[files]]
@@ -273,8 +287,23 @@ hash = "49e4321150cf5ac4a79aad26d04e884cd734c655fdbed347d5dd7148a2b0a00a"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "49ae5dfcce2f17ca0a15c37c2bfb08ec257480a5520d87d1b52fd9ccc86cd34c"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "058d607800aca4bfa0594ec089a35a4dbb1b6aaede5746cb1640db70bc77e51a"
+metafile = true
+
+[[files]]
 file = "mods/telekinesis.pw.toml"
 hash = "35fa35dbdf1af28090eb279109561be435b4abb0b7615a4872c2eac346d0df47"
+metafile = true
+
+[[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "fe471ff6820780ccc50b999eb2506c0ba5942e5d6353c351162e47254f987afa"
 metafile = true
 
 [[files]]
