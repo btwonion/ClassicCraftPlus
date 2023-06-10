@@ -53,6 +53,10 @@ file = "config/telekinesis.toml"
 hash = "4eabf2d09e035aa41aada1f7cf582f2ee3eafa82422f2fe894cd570718487ba6"
 
 [[files]]
+file = "config/treeharvester.json5"
+hash = "8371442c3379c1dcceb8cf985a68b94306b336ef609b5754bba8aa010bfa4568"
+
+[[files]]
 file = "config/voicechat/translations.properties"
 hash = "6a521191220fe44d145da9a855fed277d9a19f4c09165425e64a2c7a03758ebb"
 
