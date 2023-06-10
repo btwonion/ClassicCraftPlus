@@ -30,7 +30,7 @@ glintSpeed:0.5
 glintStrength:0.75
 damageTiltStrength:1.0
 highContrast:false
-gamma:1000
+gamma:14.500000000000002
 renderDistance:18
 simulationDistance:12
 entityDistanceScaling:5.0
@@ -75,14 +75,13 @@ glDebugVerbosity:1
 skipMultiplayerWarning:true
 skipRealms32bitWarning:false
 hideMatchedNames:true
-joinedFirstServer:false
+joinedFirstServer:true
 hideBundleTutorial:false
 syncChunkWrites:false
 showAutosaveIndicator:true
 allowServerListing:true
 onlyShowSecureChat:false
 panoramaScrollSpeed:1.0
-debugifyTelemetry:0
 telemetryOptInExtra:false
 onboardAccessibility:false
 key_key.attack:key.mouse.left
@@ -123,8 +122,8 @@ key_Open moredetails config screen:key.keyboard.unknown
 key_Reorder moredetails components:key.keyboard.i
 key_Toggle AutoDrop:key.keyboard.j
 key_Open GUI:key.keyboard.o
+key_chunkloaders.keys.open_screen:key.keyboard.k
 key_key.entityculling.toggle:key.keyboard.unknown
-key_key.ellemes_container_lib.config:key.keyboard.unknown
 key_key.fabricskyboxes.toggle:key.keyboard.unknown
 key_key.gamma_utils.gamma_toggle:key.keyboard.unknown
 key_key.gamma_utils.increase_gamma:key.keyboard.up
@@ -138,9 +137,9 @@ key_key.mousewheelie.sort_inventory:key.keyboard.grave.accent
 key_key.mousewheelie.scroll_up:key.amecsapi.mouse.scroll.up
 key_key.mousewheelie.scroll_down:key.amecsapi.mouse.scroll.down
 key_key.mousewheelie.pick_tool:key.keyboard.unknown
-key_key.mousewheelie.whole_stack_modifier:key.keyboard.unknown
+key_key.mousewheelie.whole_stack_modifier:key.keyboard.left.shift
 key_key.mousewheelie.all_of_kind_modifier:key.keyboard.left.control
-key_key.mousewheelie.drop_modifier:key.keyboard.left.alt
+key_key.mousewheelie.drop_modifier:key.keyboard.unknown
 key_key.mousewheelie.deposit_modifier:key.keyboard.unknown
 key_key.mousewheelie.restock_modifier:key.keyboard.unknown
 key_key.push_to_talk:key.keyboard.minus
@@ -184,7 +183,7 @@ key_zoomify.key.zoom.secondary:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
-soundCategory_master:0.26490066225165565
+soundCategory_master:0.5016556291390728
 soundCategory_music:0.0
 soundCategory_record:0.34683098591549294
 soundCategory_weather:0.3221830985915493
