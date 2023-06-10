@@ -54,7 +54,7 @@ hash = "4eabf2d09e035aa41aada1f7cf582f2ee3eafa82422f2fe894cd570718487ba6"
 
 [[files]]
 file = "config/treeharvester.json5"
-hash = "8371442c3379c1dcceb8cf985a68b94306b336ef609b5754bba8aa010bfa4568"
+hash = "d1101951ea2bb81654d9e87e44bdb2d705b27b1771b072f28e6b43eb56ba33eb"
 
 [[files]]
 file = "config/voicechat/translations.properties"
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "77cfdf3dd6c067578e43b4d893d6b91275d62d6e4bc9d509c5628f4710a1df00"
+hash = "1af1556972ee7139708a3284ae2a3a8f21827b8586a521978d0fb2c2650f634c"
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
