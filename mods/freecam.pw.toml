@@ -1,0 +1,7 @@
+name = "freecam"
+filename = "freecam-fabric_devjta-1.1.10+1.20.jar"
+
+[download]
+url = "https://github.com/devjta/Freecam_devjta/releases/download/1.20/freecam-fabric_devjta-1.1.10+1.20.jar"
+hash-format = "sha1"
+hash = "4d93bab5780c6e8a7750fa200fab9244092d4140"

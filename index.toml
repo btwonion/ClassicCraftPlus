@@ -196,6 +196,11 @@ hash = "49e8e4a6ca064acedd121892f6b279d23e54a62d5e023183578e1e8b559f0c9b"
 metafile = true
 
 [[files]]
+file = "mods/freecam.pw.toml"
+hash = "d5f2b0cbe7f374ed576470dc2945a474622ef829f2401b033db79daf284fe75a"
+metafile = true
+
+[[files]]
 file = "mods/fwaystones.pw.toml"
 hash = "2f65e35cd121966a40155af1317b3b5bfd4114240dfcc02bd75d8c8c65c59d52"
 metafile = true
