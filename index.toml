@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "56eca00b636da27a2bd4a06906f97058890c25725824f4e7854501fd7947ebe5"
+hash = "65fca030f808881f6289c061d8bc3004ff18c23f898afb80a0ce8adb72b532ae"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "d493589a9743da84d5f7667dd418793870bb928cd0fcc72d59b98ad4f2dfe5c0"
+hash = "d43f7ae48849de79e3610710f46299e155a1a76752b85ceba9565f3085038545"
 metafile = true
 
 [[files]]
