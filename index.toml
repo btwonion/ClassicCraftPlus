@@ -171,6 +171,11 @@ hash = "631d68ae5fcc3ed6edf6b8cadcd3e31f1cc17df300bfb541df10c278b7d7eaf1"
 metafile = true
 
 [[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "df56c208e72592d0d2475640e8831e26930010e359d1719590cdaafd94e61970"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "31713296359c70914a4fc56d32a61f41620af105819f826bbffbb234591d34fe"
 metafile = true
@@ -193,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/forcecloseworldloadingscreen.pw.toml"
 hash = "49e8e4a6ca064acedd121892f6b279d23e54a62d5e023183578e1e8b559f0c9b"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "68aac7738a251e9cbe0414426725f93f92069640ef18b56490b13c89b8f5beba"
 metafile = true
 
 [[files]]
@@ -266,6 +276,11 @@ hash = "d81eac9cff3b173732245547079d6a7f33d3d12a3c00fc89297b24a32a030677"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "deb4d4d8b8c54d02802970e72d1cac35dd8cb19ee2b192e6c439207a4683cf6d"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "a1d419cad5a32a4a442b37b2e2fe2db3e761429d6ab60dd3bb79f43d36df2297"
 metafile = true
@@ -323,6 +338,11 @@ metafile = true
 [[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "fe471ff6820780ccc50b999eb2506c0ba5942e5d6353c351162e47254f987afa"
+metafile = true
+
+[[files]]
+file = "mods/villagersplus.pw.toml"
+hash = "606f887c9e6d41fc3ba23ad42240af40908809ee0aa954a84e28bb87a6144cd1"
 metafile = true
 
 [[files]]
