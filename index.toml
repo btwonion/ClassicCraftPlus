@@ -102,12 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "d8e1be6504f9fa74f7f78904422b83cc0b7147ed974e6dab16f03ec9dfda8994"
-metafile = true
-
-[[files]]
-file = "mods/autodrop.pw.toml"
-hash = "a680a658dc5a37154419bb7f08744614a55167c49ffdae7707fd58b2dade8ab4"
+hash = "f238e1f28f18e58f737116b13dab9716ca38b2dd84242e802d60419cc71ed737"
 metafile = true
 
 [[files]]
@@ -122,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "fe2fce2919a781b1ff2b27dfaabddf030dd9bb61d27a7df1f954e4a9ee440bf9"
+hash = "1d893eb508f386beda73402cc63efb102284985f900a4fd5b92e9eb9a7c1cca2"
 metafile = true
 
 [[files]]
@@ -147,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "4cb02206331c9a6d207681b2e40b4b8648a462b0c31e6e634200a01b592b1d3d"
+hash = "8e73f68cbcbff53b6a00c30f371fc34a63c2ac2240af4792008d67dce74fb507"
 metafile = true
 
 [[files]]
