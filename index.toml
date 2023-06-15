@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "be694b9cf9d9d2245fb0908c837f129dd9033bfb69ffe49c0e5c9dcecb580a2e"
+hash = "5b089b32ba80ff2c4fcb1cf5ad04e54fe7dfb402d6e1c325f5c42e9b179cb1b0"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "959279ff5c1fa15d5c70db08613979ee4a65dbe0c3ebe5034456abedcc050936"
+hash = "3fdbb304a0534e226796d5ba01b3854ed27e1e60bad665c921daae5b18b800eb"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ace3e916242bdfbc9177b8572dd57567b5a1afc6773466d21f464522b3a60981"
+hash = "ca4c66e6e0c96f139fb996915277a0a417a55fc5ffa8810d0aaa5dd07080399c"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+hash = "68aac7738a251e9cbe0414426725f93f92069640ef18b56490b13c89b8f5beba"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+hash = "6c681a60f617657bb819dae03d180a92a513908705518480391dfd55783b457a"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "bd1eaf224c02e5f8cb6989dacb0930f1083330c49ba703219e386e912281b043"
+hash = "49d0ce7e7872aa4acbf3490647226fca58cebdc9cfc1402614bbddc1444ab66a"
 metafile = true
 
 [[files]]
@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "f013995011fd15f45fc2bbd28a63f70542008891a6dcfd7a955a2ab3e248460d"
+hash = "49e4321150cf5ac4a79aad26d04e884cd734c655fdbed347d5dd7148a2b0a00a"
 metafile = true
 
 [[files]]
@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "058d607800aca4bfa0594ec089a35a4dbb1b6aaede5746cb1640db70bc77e51a"
+hash = "e172ba1228bd88356ac958d064a44b117a300b8b1ab5a188b7d6fb456bc8e0fd"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/tree-harvester.pw.toml"
-hash = "b69bb3a741db6e8c50fe408ff92663a9daf75d47af43672b7ea4051b87208d91"
+hash = "fe471ff6820780ccc50b999eb2506c0ba5942e5d6353c351162e47254f987afa"
 metafile = true
 
 [[files]]
