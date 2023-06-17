@@ -276,6 +276,11 @@ hash = "d81eac9cff3b173732245547079d6a7f33d3d12a3c00fc89297b24a32a030677"
 metafile = true
 
 [[files]]
+file = "mods/perspektive.pw.toml"
+hash = "40a3d30b742284f05935adc00938e538a28213e72a83051b4e09a8ddb9018f0b"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "deb4d4d8b8c54d02802970e72d1cac35dd8cb19ee2b192e6c439207a4683cf6d"
 metafile = true
