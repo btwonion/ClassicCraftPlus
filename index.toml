@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/boat-item-view.pw.toml"
-hash = "8f39c1f9a2a5856bc40ccfd3414f8d0e0ec90429dadf4aaf2333790bdcb727cb"
+hash = "45ef79853a6e968323dadc477f2b68c046948a9e5b2445fed3ab5586598347cf"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "c4433d59883d98e778c0ad54088f2b04ae2ccc33406f394780244c3734a5d136"
+hash = "a43e92e619450f5e1c0cd79114232a8f8ddf16892342af1c855ebcf97f877e8f"
 metafile = true
 
 [[files]]
@@ -327,12 +327,12 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "e172ba1228bd88356ac958d064a44b117a300b8b1ab5a188b7d6fb456bc8e0fd"
+hash = "c50563ec293b583010364d4c0e10c66f85d3482e2160c79eb54373f9409754ed"
 metafile = true
 
 [[files]]
 file = "mods/telekinesis.pw.toml"
-hash = "35fa35dbdf1af28090eb279109561be435b4abb0b7615a4872c2eac346d0df47"
+hash = "9a22ea2395de057a6a5c0d7c351fc7922de0b620c45cebcc59603b40f264eb69"
 metafile = true
 
 [[files]]
@@ -347,17 +347,17 @@ metafile = true
 
 [[files]]
 file = "mods/whoami.pw.toml"
-hash = "92881f23b9835dd0962a51ffb24f12b8f11e881bd8a5a10c63874223ed60e436"
+hash = "8b35ac594bfad2fd2533849ad3f573cc1f036be47302123a3193c9009fbe4691"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "6532c1238fe6dbbfb2458ebbec37adcbc49cc7294931cf28f2735e41c3c52b6e"
+hash = "fa7940ff6c6d65fede416632132a57518ab1a79e09014410932ed614ea386a70"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "132ba8da2938bab4267c47f5daef9b93cc1bc671f63cd3c3f6ad2e354be289df"
+hash = "a2e3f5733941bc3a7e9c15ccb3e3b3c07c2433595906e263208f1e9aa1db5b11"
 metafile = true
 
 [[files]]
@@ -372,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "bf2ae4afe90b227e11274f60c1b42580261cdf80fefb993d164401f76c551509"
+hash = "eb771ddb9e9f61555c06a30d5e6349e2c95f5b4b8d4bbda899788b24c0990b8a"
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
