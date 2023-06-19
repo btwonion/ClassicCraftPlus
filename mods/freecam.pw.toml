@@ -1,13 +1,13 @@
 name = "Freecam (Modrinth Edition)"
-filename = "freecam-fabric-modrinth-1.1.10+1.20.jar"
+filename = "freecam-fabric-modrinth-1.2.0+1.20.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/XeEZ3fK2/versions/nqQenFqX/freecam-fabric-modrinth-1.1.10%2B1.20.jar"
+url = "https://cdn.modrinth.com/data/XeEZ3fK2/versions/CoF2ez1D/freecam-fabric-modrinth-1.2.0%2B1.20.jar"
 hash-format = "sha1"
-hash = "2e5c58213e041d069d6c15c3961165a1a5899d56"
+hash = "b65423774d3faf18087a1b2c8092150e7d488cc1"
 
 [update]
 [update.modrinth]
 mod-id = "XeEZ3fK2"
-version = "nqQenFqX"
+version = "CoF2ez1D"
