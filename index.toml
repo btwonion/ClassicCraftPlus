@@ -106,6 +106,11 @@ hash = "f238e1f28f18e58f737116b13dab9716ca38b2dd84242e802d60419cc71ed737"
 metafile = true
 
 [[files]]
+file = "mods/better-stats.pw.toml"
+hash = "2c8f3ce4025673a61f05a2b4ed56864436b8f3114a202e6a0621283aa96a1a42"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "86ce47da34b9a69c105e4e22058a5d6fc12448283a54a1f911c16351f096068e"
 metafile = true
