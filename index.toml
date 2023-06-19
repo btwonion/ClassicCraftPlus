@@ -21,6 +21,10 @@ file = "config/betterf3.json"
 hash = "9bec0077a0e75eb7a2cb9a7ab0abebe548cc93ede87906b9671b0bff9796692b"
 
 [[files]]
+file = "config/emi.css"
+hash = "78e1d92f40fdbf1d4f87268163576708cf72d9810f8c1d0dfa1a9b34666215e5"
+
+[[files]]
 file = "config/expandedstorage.json"
 hash = "f9d9187aa13720c1fb62eb93e9b1a2b680d8757da312047113c5007de287a8b0"
 
@@ -173,6 +177,11 @@ metafile = true
 [[files]]
 file = "mods/easy-magic.pw.toml"
 hash = "df56c208e72592d0d2475640e8831e26930010e359d1719590cdaafd94e61970"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "09135ad1883de904428096c46413e911b9b9206acc78687e1c15aafd2dc8662d"
 metafile = true
 
 [[files]]
