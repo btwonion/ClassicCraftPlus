@@ -1,12 +1,12 @@
 name = "onion SMP"
 author = "btwonion"
-version = "2.7.0"
+version = "2.8.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "55d71dc9b36ab8e4fd68c98981b4a7b45d16f70d2f5bded85fe0adc56cf22e2c"
+hash = "2ad4d96e7cb7101c762ae29fc61f2053cb0df1052a119fa8167cfb3b94ff0422"
 
 [versions]
 fabric = "0.14.21"
