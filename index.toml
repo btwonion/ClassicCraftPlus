@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "2c8f3ce4025673a61f05a2b4ed56864436b8f3114a202e6a0621283aa96a1a42"
+hash = "8772e9624f75bc138a9dcc41fd6569056061517e007a875b5acedb892d22ab9f"
 metafile = true
 
 [[files]]
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "65fca030f808881f6289c061d8bc3004ff18c23f898afb80a0ce8adb72b532ae"
+hash = "d8431a3c5dac429143ec732d3a71511a5fb64b040c5dc58cd378d6c87fe2a8f5"
 metafile = true
 
 [[files]]
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "631d68ae5fcc3ed6edf6b8cadcd3e31f1cc17df300bfb541df10c278b7d7eaf1"
+hash = "c8c6a3893859d2f0e04ebf400c8ce8b47de21cfe6097996b5dde1561e92f3c80"
 metafile = true
 
 [[files]]
@@ -351,12 +351,12 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "c50563ec293b583010364d4c0e10c66f85d3482e2160c79eb54373f9409754ed"
+hash = "35eb4593ec26ccbab05bcc2560178248e81fa7af03be561662bdc8b6e52b9b75"
 metafile = true
 
 [[files]]
 file = "mods/telekinesis.pw.toml"
-hash = "9a22ea2395de057a6a5c0d7c351fc7922de0b620c45cebcc59603b40f264eb69"
+hash = "5e32ca92a97602e9008e35dc765ae9ce34a0a6de371fc2933a86dc12cef3b3a5"
 metafile = true
 
 [[files]]
