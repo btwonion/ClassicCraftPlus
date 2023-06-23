@@ -280,6 +280,11 @@ hash = "5ac7c70847108d6c21c3352ae5233129a410e42ddf161319cb0a658c0b296693"
 metafile = true
 
 [[files]]
+file = "mods/no_fog.pw.toml"
+hash = "7a51590924baf54e4e15f6f39fc85b118968dbd794ccffb69a64222d33c7f5b9"
+metafile = true
+
+[[files]]
 file = "mods/nosey.pw.toml"
 hash = "26b458b1024d8845d7ecfff97cf69c08bf95f58f5128f8f88f85e71f2a6b0604"
 metafile = true
