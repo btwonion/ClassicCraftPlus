@@ -1,0 +1,13 @@
+name = "Vanilla+ Collections"
+filename = "Vanilla+Collections-v1.3.1-pf15.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oe4yAyON/versions/LUYJbmNP/Vanilla%2BCollections-v1.3.1-pf15.zip"
+hash-format = "sha1"
+hash = "28b8d256bb14f13ac07135c84e91869f16197339"
+
+[update]
+[update.modrinth]
+mod-id = "oe4yAyON"
+version = "LUYJbmNP"

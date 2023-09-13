@@ -1,13 +1,13 @@
 name = "Telekinesis"
-filename = "telekinesis-fabric-2.2.0-1.20.jar"
+filename = "telekinesis-fabric-2.3.1-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LLfA8jAD/versions/AyLpnFzg/telekinesis-fabric-2.2.0-1.20.jar"
+url = "https://cdn.modrinth.com/data/LLfA8jAD/versions/sdFHUt8K/telekinesis-fabric-2.3.1-1.20.1.jar"
 hash-format = "sha1"
-hash = "96a4010ed54fda1c84bf1bd6bdb7e3bf252fcd35"
+hash = "74f1562c3c6727fab8ef282dbe1c200977fac094"
 
 [update]
 [update.modrinth]
 mod-id = "LLfA8jAD"
-version = "AyLpnFzg"
+version = "sdFHUt8K"
