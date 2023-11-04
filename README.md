@@ -2,7 +2,7 @@
 > ClassicCraft+ offers a refreshing twist on the traditional Minecraft survival experience. Immerse yourself in a world of revamped biomes and a tougher challenge to defeat the dragon, while staying true to vanilla Minecraft.
 
 ## World Generation
-The world generation is slightly redesigned by the mods of bebebea_loste.
+The world generation has been slightly redesigned by the mods of bebebea_loste.
 The dimensions have new structures and the end is finally as hard as it should be.
 
 ## Bosses
