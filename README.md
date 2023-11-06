@@ -13,4 +13,6 @@ No more speedrunning with an iron armor!
 The modpack includes a handful of utilities such as Freelook, Xaero's Mini/WorldMap and Mouse Wheelie.
 
 ### Other
+The modpack in its current state only exists since version v3.0.0. The older versions do not fit this description at all.
+
 If you need help with any of my mods, just join my [discord server](https://nyon.dev/discord)
