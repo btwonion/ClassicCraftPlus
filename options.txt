@@ -1,4 +1,4 @@
-version:3465
+version:3578
 autoJump:false
 operatorItemsTab:false
 autoSuggestions:true
@@ -30,6 +30,7 @@ glintSpeed:0.5
 glintStrength:0.75
 damageTiltStrength:1.0
 highContrast:false
+narratorHotkey:true
 gamma:14.500000000000002
 renderDistance:18
 simulationDistance:12
@@ -42,8 +43,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","file/Vanilla+Collections-v1.3.1-pf15.zip","file/Hyper_realistic_sky_[v1.11].zip","file/Default-Dark-Mode-1.20-2023.7.0.zip","fabric","continuity:default","continuity:glass_pane_culling_fix","black_icons"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","fabric","file/Vanilla+Collections-v1.3.1-pf15.zip","file/Hyper_Realistic_Sky_[v1.13].zip","file/Default-Dark-Mode-1.20.2-2023.9.0.zip","continuity:default","black_icons","continuity:glass_pane_culling_fix"]
+incompatibleResourcePacks:["file/Vanilla+Collections-v1.3.1-pf15.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -118,14 +119,13 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
-key_keybinding.toggle-hold:key.keyboard.i
+key_keybinding.toggle-hold:key.keyboard.unknown
 key_keybinding.open-gui:key.keyboard.o
-key_Open moredetails config screen:key.keyboard.unknown
-key_Reorder moredetails components:key.keyboard.unknown
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.fabricskyboxes.toggle:key.keyboard.unknown
+key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.unknown
 key_key.gamma_utils.gamma_toggle:key.keyboard.unknown
 key_key.gamma_utils.increase_gamma:key.keyboard.up
 key_key.gamma_utils.decrease_gamma:key.keyboard.down
