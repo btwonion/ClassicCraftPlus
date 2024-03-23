@@ -21,8 +21,8 @@ file = "config/antixray.toml"
 hash = "d272b9563de83425ed8e80d60db221ea433ca556adccf0a8bc20c7df8b2cba0b"
 
 [[files]]
-file = "config/betterf3.json"
-hash = "9bec0077a0e75eb7a2cb9a7ab0abebe548cc93ede87906b9671b0bff9796692b"
+file = "config/bigendcitiesmodconfig.properties"
+hash = "776db314e03138fca10447ab7127f9e3eed717c8e87ead40cbcf4e483e916979"
 
 [[files]]
 file = "config/capes.json5"
@@ -43,6 +43,10 @@ hash = "9ef784686e6a9d0f5b0945a994e43a9320c7abd6abef36575b683fc6d4741191"
 [[files]]
 file = "config/gamma_utils.json5"
 hash = "af3421a968736d0014ee7510aea0dd2aa2c2013c68aa9bd1a9a7d1acd9f6f723"
+
+[[files]]
+file = "config/gravestones.json"
+hash = "f9892a3510b46aef257d2c5551a49fa43c4811b011491916526f67f43e98e24d"
 
 [[files]]
 file = "config/head-index.json"
@@ -69,20 +73,12 @@ file = "config/telekinesis.toml"
 hash = "4eabf2d09e035aa41aada1f7cf582f2ee3eafa82422f2fe894cd570718487ba6"
 
 [[files]]
-file = "config/voicechat/translations.properties"
-hash = "6a521191220fe44d145da9a855fed277d9a19f4c09165425e64a2c7a03758ebb"
-
-[[files]]
-file = "config/voicechat/username-cache.json"
-hash = "8916b532833b16c34ac034d24601932d1b6ca99af3445f7af69060dc86bb72f8"
-
-[[files]]
 file = "config/voicechat/voicechat-client.properties"
-hash = "f598d4cb213e9cd7274712469148c4caa5ba4af9ca5c0b2cd847503335a2c1ec"
+hash = "fc541f88d09d25a8bd3c05e981c6b0565ee3a0d02d17bf65661cc14a8ae68fe6"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
-hash = "db00e53a96bb0678376e613c2debc5f29af5e2eeb9d72f0b669d419331645539"
+hash = "67dc8365902bfc8bb4fdbf6cba30da208cc3559e73cb2852218f20e44996d437"
 
 [[files]]
 file = "config/xaerominimap.txt"
@@ -140,6 +136,11 @@ metafile = true
 [[files]]
 file = "mods/auto-clicker.pw.toml"
 hash = "13da5885b0c0268635c0d0d9efa4f0074b25c1c0f76cdb01f0253e3aa585b8b4"
+metafile = true
+
+[[files]]
+file = "mods/bad-wither-no-cookie.pw.toml"
+hash = "b5ab061f078e160c2d6b60b43fa4e35860306f1e7bb5e3323dd3689d4f1a24ba"
 metafile = true
 
 [[files]]
@@ -274,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/egd.pw.toml"
-hash = "245a8485d6aa1da18d21c11e0d75e4f6076008d65dcbe5df0d65a08477057e55"
+hash = "06de6b3d1d978106ce2a61684c430b69b533e9f4712835adcf971ccb5ae20d32"
 metafile = true
 
 [[files]]
@@ -373,6 +374,21 @@ hash = "eb0d9a1475b609eb82f26d0440846d52034c1aef8fcc21ee1cc327dc52648f7d"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "b5b076663f62cfb0c3d8ee8e304711d6fbfa043f72a4706dc88edb927da6f046"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "f3a2939a893321067f5700c2e25c0c48fc1f9d39dd925449865c90597d65df1b"
+metafile = true
+
+[[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "19c65e8bcb71999f1d9403ace1452dcef913754b7889d70885dedd592703af12"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
@@ -453,6 +469,11 @@ hash = "708c3992f04530d2366b570ad6503b97881d039f2d79530c861b8f276b2ec591"
 metafile = true
 
 [[files]]
+file = "mods/norecipebook-fabric.pw.toml"
+hash = "9e4a54b5fbece7a4147457be7ceb2be703f0aa3adabe979f0a614fc2861daf1b"
+metafile = true
+
+[[files]]
 file = "mods/nosey.pw.toml"
 hash = "d1590069cae9b65a0ac6770cc83611b52f1e0874f349b70589cdc4ba7e2ba593"
 metafile = true
@@ -480,6 +501,16 @@ metafile = true
 [[files]]
 file = "mods/perspektive.pw.toml"
 hash = "49a1fc6dc51674b5b24487467cf4c0a5d43b91f1fd531fb743df5076b882887e"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_core.pw.toml"
+hash = "8f91c3b6a5064a59a7b9027fc1bb24064c194aaa904192333834b72b69f7ae71"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_gravestones.pw.toml"
+hash = "6e72f1cfdba5e594671bf56eaf7d00526f42eb7b9ceeb8ce98b6faafce869ad5"
 metafile = true
 
 [[files]]

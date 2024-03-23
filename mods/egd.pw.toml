@@ -1,6 +1,6 @@
 name = "Endgame Dragon"
 filename = "egd-1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/x6RFQOvD/versions/mji1NaLj/egd-1.jar"
