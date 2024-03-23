@@ -1,0 +1,13 @@
+name = "No Wither Cheese"
+filename = "WitherNoCheese.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NgRPpw1k/versions/sGJ0886c/WitherNoCheese.zip"
+hash-format = "sha1"
+hash = "bcd86b0be830405567cd67fb0c977179adbd34a8"
+
+[update]
+[update.modrinth]
+mod-id = "NgRPpw1k"
+version = "sGJ0886c"
