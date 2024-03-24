@@ -1,9 +1,8 @@
-README.md
+readme.md
 LICENSE
-releases/
-changelogs/
 .idea
 
 media/
 install_de.md
 update_de.md
+*.mrpack

@@ -25,6 +25,10 @@ file = "config/badoptimizations.txt"
 hash = "6a26c41385d6d79a0430ab91270c3e64d03576233f4a66f3b9761ffb37247fb5"
 
 [[files]]
+file = "config/bobby.conf"
+hash = "32a51f87b98c4bf0b5e2b996e14fa14c2ee4d6d04ad3b5a939ad00dd25c6649b"
+
+[[files]]
 file = "config/bwncr.toml"
 hash = "d6c53a23d0697d3e1dac3465e52b8a34b07a4cb9cb15834c01c8fc3cec1f0775"
 
@@ -699,8 +703,8 @@ file = "options.txt"
 hash = "76db30f02f60fe5abfe1db96d2797a52f82ef0048892bf6d23e1cf2fc7005d8c"
 
 [[files]]
-file = "packwiz-installer.jar"
-hash = "3cc3ebd57f1ec54a8ceaccc76e193201f8c957c563c9461253d112c5b087d744"
+file = "readme.md"
+hash = "f4c3feec6cedacf0236afafa7273ab27d5c0c9851eea66d206af4263d7ad2993"
 
 [[files]]
 file = "resourcepacks/animated-door.pw.toml"
