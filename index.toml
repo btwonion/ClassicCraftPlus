@@ -17,6 +17,10 @@ file = "config/NoChatReports/NCR-ServerPreferences.json"
 hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
 
 [[files]]
+file = "config/NoChatReports/README.md"
+hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
+
+[[files]]
 file = "config/antixray.toml"
 hash = "d272b9563de83425ed8e80d60db221ea433ca556adccf0a8bc20c7df8b2cba0b"
 
@@ -231,6 +235,11 @@ metafile = true
 [[files]]
 file = "mods/better-beds.pw.toml"
 hash = "0bf7fa5d6e5b126e110699e85c64b4d86a1d4171d17adfc994936e6f62b81083"
+metafile = true
+
+[[files]]
+file = "mods/better-boat-movement.pw.toml"
+hash = "ee3c5e6ed045bf2dafd8dfcf5d14b97d8477d1f66fe312490111e5fb189e6c42"
 metafile = true
 
 [[files]]
@@ -701,10 +710,6 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "76db30f02f60fe5abfe1db96d2797a52f82ef0048892bf6d23e1cf2fc7005d8c"
-
-[[files]]
-file = "readme.md"
-hash = "f4c3feec6cedacf0236afafa7273ab27d5c0c9851eea66d206af4263d7ad2993"
 
 [[files]]
 file = "resourcepacks/animated-door.pw.toml"
