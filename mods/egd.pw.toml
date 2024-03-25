@@ -1,0 +1,13 @@
+name = "Endgame Dragon"
+filename = "egd-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/x6RFQOvD/versions/mji1NaLj/egd-1.jar"
+hash-format = "sha1"
+hash = "27cb831b486b4a80593445a6014e3968135e77fc"
+
+[update]
+[update.modrinth]
+mod-id = "x6RFQOvD"
+version = "mji1NaLj"

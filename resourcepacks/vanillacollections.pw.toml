@@ -1,6 +1,6 @@
 name = "Vanilla+ Collections"
 filename = "Vanilla+Collections-v1.3.1-pf15.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/oe4yAyON/versions/LUYJbmNP/Vanilla%2BCollections-v1.3.1-pf15.zip"
