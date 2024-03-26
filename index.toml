@@ -85,16 +85,16 @@ file = "config/iris.properties"
 hash = "37bb936f1c3ed7f696ba1ec637e4df6a98da4237137d17ce9705d1e8141a3129"
 
 [[files]]
-file = "config/jei/jei-client.ini"
-hash = "f20733aca8e5ebff9722dda2b2563cd77dbfaf85d9b2b339515ceedc8df7f036"
-
-[[files]]
 file = "config/lithium.properties"
 hash = "9a6a542c364d7e342820e12480784a10ffba62d1cc81f3aa76ec31e66934ec56"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
 hash = "438b7fccec32322a0f9f2ce69db8f512e87f2901004d4e32a9e9b00e10c6ab75"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "3e9f8d45844532c3c7d3cd868e3f4ce260c2e0448ba9c11e3b41cdc41b54f068"
 
 [[files]]
 file = "config/moreculling.toml"
