@@ -239,7 +239,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-boat-movement.pw.toml"
-hash = "ee3c5e6ed045bf2dafd8dfcf5d14b97d8477d1f66fe312490111e5fb189e6c42"
+hash = "e89c8e6301aca0eb3889bc4f6fc9137fc09eb12acd062a659a515c60c99cb37b"
 metafile = true
 
 [[files]]
@@ -349,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/discontinuous-beacon-beams.pw.toml"
-hash = "cf06c11d06a315713d524349ad7ad1050cc56a2207853488e0490e9d9306b686"
+hash = "93136f4bafe516487a7f88578adbe80a210d1b55ef066a9c8be04e06d8b255f3"
 metafile = true
 
 [[files]]
@@ -629,7 +629,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "4196b3c15e223c9ca1c46edbe47f3456026ef4c2e6d51f818810ff442fb080de"
+hash = "097e784e1901e323ae85c6a1661455989c617b6df0721371134d44766075ccb5"
 metafile = true
 
 [[files]]
@@ -689,7 +689,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "e1d62a3cb9200b6bffd7f86431ef69ce459ab2c0866aa1255bb1ac60e06aae17"
+hash = "97fa9fb8210d11b8d9a08098b186f3882eb1f47dc5e20e3b5bac4952dddb2d50"
 metafile = true
 
 [[files]]
