@@ -43,7 +43,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","file/Vanilla+Collections-v1.3.1-pf15.zip","file/Sparkles_1.20.4_v1.0.5.zip","file/Hyper_Realistic_Sky_[v1.17].zip","seamless:default_seamless","fabric","black_icons","continuity:default","continuity:glass_pane_culling_fix","file/Default-Dark-Mode-1.20-2023.7.0.zip"]
+resourcePacks:["vanilla","file/Vanilla+Collections-v1.3.1-pf15.zip","file/Sparkles_1.20.4_v1.0.5.zip","file/Hyper_Realistic_Sky_[v1.17].zip","seamless:default_seamless","fabric","black_icons","continuity:default","continuity:glass_pane_culling_fix","file/Default-Dark-Mode-1.20-2023.7.0.zip","betterbeds:fancyconnectedbeds"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us

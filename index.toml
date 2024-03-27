@@ -709,7 +709,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "76db30f02f60fe5abfe1db96d2797a52f82ef0048892bf6d23e1cf2fc7005d8c"
+hash = "ac7277afd5128b3158c7cdefaff9685c475789de4e15677fb946af636e953a41"
 
 [[files]]
 file = "resourcepacks/animated-door.pw.toml"
