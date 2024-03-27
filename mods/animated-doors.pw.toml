@@ -1,6 +1,6 @@
 name = "Animated Doors"
 filename = "animated-doors-1.0.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/EuloLapn/versions/x2KmlHF0/animated-doors-1.0.jar"

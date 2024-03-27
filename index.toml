@@ -184,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/animated-doors.pw.toml"
-hash = "a8ce03e6f782db68a453fa0d7e8d8ef3d30d4d184fa0ce030843709ea43d573f"
+hash = "6d78debf01d6b0515f9e3d8ccbbf20aa0085efab2a770f41c6138b694d493735"
 metafile = true
 
 [[files]]
