@@ -24,6 +24,7 @@ tutorialStep:none
 rawMouseInput:true
 skipMultiplayerWarning:true
 joinedFirstServer:true
+gamma:10.0
 key_key.smoothCamera:key.keyboard.unknown
 key_key.fullscreen:key.keyboard.unknown
 key_key.spectatorOutlines:key.keyboard.unknown
