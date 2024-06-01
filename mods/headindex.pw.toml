@@ -1,13 +1,13 @@
 name = "Head Index"
-filename = "headindex-1.1.3.jar"
+filename = "headindex-1.1.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/mEPmyd7J/versions/NhgIDWvL/headindex-1.1.3.jar"
+url = "https://cdn.modrinth.com/data/mEPmyd7J/versions/uoACRT1X/headindex-1.1.5.jar"
 hash-format = "sha1"
-hash = "efe818e93052b3e907382ac21b9e7b3c4048a9e7"
+hash = "6926ada3cc6a0a3891e8a0a3f54d634aa70910cb"
 
 [update]
 [update.modrinth]
 mod-id = "mEPmyd7J"
-version = "NhgIDWvL"
+version = "uoACRT1X"
