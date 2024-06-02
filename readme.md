@@ -16,7 +16,7 @@ Embark on a journey through overhauled biomes, teeming with unique flora and fau
 - Team up with friends and build intricate settlements.
 - Foster a vibrant community through improved communication features like Simple Voice Chat.
 
-## Unparalleled Performance:
+## Unparalleled Performance
 
 - ClassicCraft+ prioritizes a smooth gameplay experience. Mods like Sodium and Lithium ensure your world renders flawlessly, even with hefty builds.
 - Customize your visuals with a variety of shader options like BSL Shaders and Complementary Shaders, all while maintaining peak performance.
@@ -27,6 +27,6 @@ Embark on a journey through overhauled biomes, teeming with unique flora and fau
 
 **Please note:** This modpack is not intended to be an exhaustive list of all included mods.
 
-**Happy Crafting!**
-
 If you need help with my work, please join my [discord server](https://nyon.dev/discord).
+
+**Happy Crafting!**
