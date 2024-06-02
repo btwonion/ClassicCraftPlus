@@ -709,6 +709,11 @@ hash = "b6996c2512da1b4c20bf4b2ca10dbc665ea8b659d38113f225a24db365c7c346"
 metafile = true
 
 [[files]]
+file = "mods/universal-shops.pw.toml"
+hash = "55259f4f01b6c6ceae925da29273c12dc7acfb9edc10b7b97d4b8954571e0fb5"
+metafile = true
+
+[[files]]
 file = "mods/vanilla-friendly-structures.pw.toml"
 hash = "a167e5a1d34957cecd1a60385b1b1ce6139e3976a196503554ac1d906e9b8e75"
 metafile = true
