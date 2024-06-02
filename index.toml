@@ -604,6 +604,11 @@ hash = "365bb8d63e05d8b4751a030f0a8bbf381bd558b90a79a59aec41b01116afc79a"
 metafile = true
 
 [[files]]
+file = "mods/raised.pw.toml"
+hash = "a39d62fa0ae0067676767e1dd45c2cd46d85ee0d6b1784778a0eb0d9ad4ca3c0"
+metafile = true
+
+[[files]]
 file = "mods/realms-button-remover.pw.toml"
 hash = "32e2446feab3f04ad66fe9b5e153c96c4746a78bbfab82aab9bd939d646d6756"
 metafile = true
@@ -755,7 +760,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "3391a76c371c3e2f0b88e6834ab567b5442dc6fac4ea08e2f01f70fafc6037e3"
+hash = "2cf9cd2e5130a1d1795ec487392469f76f8a99e959f96b0e1990162ef2c0c890"
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
