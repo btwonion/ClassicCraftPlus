@@ -1,0 +1,13 @@
+name = "Realms Button Remover"
+filename = "realmsfix-2.0.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LqywxrVu/versions/IGaTdpQb/realmsfix-2.0.3.jar"
+hash-format = "sha1"
+hash = "1b681f50796f152e3de4ab51d7feeef73aeb5d95"
+
+[update]
+[update.modrinth]
+mod-id = "LqywxrVu"
+version = "IGaTdpQb"

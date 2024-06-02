@@ -1,13 +1,13 @@
 name = "Better Boat Movement"
-filename = "better-boat-movement-1.1.0-1.20.4.jar"
-side = "server"
+filename = "1.20.4-1.1.4-1.20.4.jar"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/wTfH1dkt/versions/VwauooPs/better-boat-movement-1.1.0-1.20.4.jar"
+url = "https://cdn.modrinth.com/data/wTfH1dkt/versions/tZh43trB/1.20.4-1.1.4-1.20.4.jar"
 hash-format = "sha1"
-hash = "a0c2b1877915d4c199cf2843d45bd082fdcd7b8c"
+hash = "e86ebe207c96c73e30fd3769a9da46702809771e"
 
 [update]
 [update.modrinth]
 mod-id = "wTfH1dkt"
-version = "VwauooPs"
+version = "tZh43trB"
