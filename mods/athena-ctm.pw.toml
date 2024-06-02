@@ -1,6 +1,6 @@
 name = "Athena"
 filename = "athena-fabric-1.20.4-3.3.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/OAbkAbp7/athena-fabric-1.20.4-3.3.2.jar"
