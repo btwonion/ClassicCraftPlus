@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
-hash = "36eff4e6316ffeb02187083c7d9b56ea81e1c12040bd232e8d45c3f72f4b2e1e"
+hash = "20ddc6521368dda48742ee26395ee9d2f55ae05551666d428fe1f646d9dd11e0"
 metafile = true
 
 [[files]]
