@@ -2993,12 +2993,12 @@ metafile = true
 
 [[files]]
 file = "mods/ebe.pw.toml"
-hash = "179d1b7ca85bd3202749e2cc95413daec331dd37dbcf66d07f12a2cd1c0ee397"
+hash = "df487485f2e57e77657f65da68500e5b688812d7555f75e7db910d39827386c4"
 metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "ab774cbef7b1518ad9e50f34e918791047f1272a273ee7b51dedb6de367239c3"
+hash = "a92c4e268f2fa6850b0047c567cd5885a511fa3d38247b26de49fb7cecab9f41"
 metafile = true
 
 [[files]]
@@ -3258,7 +3258,7 @@ metafile = true
 
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
-hash = "79511188bca048793fdc877fb4c1dcd60cad69a5922807c5676ddbbd14e7caad"
+hash = "acd993faf158b9653726aed8ddfae65306e63a9e9bca09acb765a8b77fe01d47"
 metafile = true
 
 [[files]]
@@ -3373,12 +3373,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "868925f9646189c9d395ee0a1c3672e031e9261f91273d666f47d5e080e968c7"
+hash = "7b9447d2c9bebbace5cd2de479ae2acb0bad73d9f09c85f3bf820e1fc2341665"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "a2d4f79167046f3acd3326ad88aa4b44191644f1d4e8c80d4fb0444751784c21"
+hash = "41db0409f979462a7ed0bfe765dca0ed8d20250b3cc3ab4c7cfc7d7c5e53f2cd"
 metafile = true
 
 [[files]]
@@ -3418,5 +3418,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "1e9f9f7053c256baf766dddba7a1f929634f5629c6787ae4ff1f117159232c22"
+hash = "8ebbc8c25e33e00f9902004c5864b73b43b60bb79cabba08c626d737a733fc87"
 metafile = true
