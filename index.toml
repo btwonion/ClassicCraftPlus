@@ -58,7 +58,7 @@ hash = "6bb3b6b65f728d5c3d06dd986b85d21370e3b78a30629b7a1ab7a0a46e033768"
 
 [[files]]
 file = "config/yosbr/config/fallingtree.json"
-hash = "0b39fcf1a8cb12521a6d4215cb2a47cd1fb0962c1d5c2c44acce06ea6d17b4e5"
+hash = "53664734c859429425a5ad86610fb45f2fdd5d7336aad2d476edd9ad3493031a"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"

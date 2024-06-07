@@ -32,7 +32,7 @@
     "damageMultiplicand": 2.0,
     "damageRounding": "ROUND_DOWN",
     "speedMultiplicand": 0.5,
-    "forceToolUsage": true
+    "forceToolUsage": false
   },
   "player": {
     "allowedTags": []
