@@ -3067,6 +3067,11 @@ hash = "bef742357569c57ea3ed96448bf40aac7cd7cdb001646b1768d2693ebab3df66"
 metafile = true
 
 [[files]]
+file = "mods/geophilic.pw.toml"
+hash = "0b1de01497b02a6d539b6f7689df2359e7be4187acef8287af83b946030fd8b0"
+metafile = true
+
+[[files]]
 file = "mods/guard-villagers-(fabricquilt).pw.toml"
 hash = "79b75dae9199c8c5b2d761495d5d9295cceac54948a1771a55f1dfaad9efddde"
 metafile = true
@@ -3309,11 +3314,6 @@ metafile = true
 [[files]]
 file = "mods/telekinesis.pw.toml"
 hash = "312cf49d0be0447880cb2924ad77b19b060e9e66e368968c9624936da0ea7dd3"
-metafile = true
-
-[[files]]
-file = "mods/terra.pw.toml"
-hash = "126dc9348e492def3c788c08a4c64b609475f5a02dbd61ef181962f992e23cd7"
 metafile = true
 
 [[files]]
