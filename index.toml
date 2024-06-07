@@ -233,11 +233,6 @@ hash = "93a1253ad002079a321f75e5d1674dea97e582462909641c3b8b4ead0997bc78"
 metafile = true
 
 [[files]]
-file = "mods/better-boat-movement.pw.toml"
-hash = "a18ed7dfa9e2a979144f27f02c2bf7b5de0e9964c1d33fcb376527957d9aaa49"
-metafile = true
-
-[[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "ec31177d5cf656efdff737432455211defb8ee188749e3f53f117f75f83d1b6a"
 metafile = true
