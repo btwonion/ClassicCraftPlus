@@ -2794,7 +2794,7 @@ hash = "2cf9cd2e5130a1d1795ec487392469f76f8a99e959f96b0e1990162ef2c0c890"
 
 [[files]]
 file = "config/yosbr/server.properties"
-hash = "4c5c3b3c27f3b96482117c1b3df5f16389798f6f2d1cf2d56bc862b838c13ef5"
+hash = "f56e643a827792b54b8739a5d60fdc383424a061487ac0f80f66437935eb0327"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -3405,6 +3405,10 @@ metafile = true
 file = "resourcepacks/vanillacollections.pw.toml"
 hash = "024a9eee9f6af6444e8ea7dfd0802ecf4e8340b01f5ef59c16e6733b0e9a5f0c"
 metafile = true
+
+[[files]]
+file = "server.properties"
+hash = "4c5c3b3c27f3b96482117c1b3df5f16389798f6f2d1cf2d56bc862b838c13ef5"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
