@@ -779,7 +779,7 @@ metafile = true
 
 [[files]]
 file = "server.properties"
-hash = "c1b8ef06f69845d219288ae1925c4026b829233cb24b3d5891b2f6810c7a9523"
+hash = "f89a70322134dacb15ea165d703ac1b0acb43190bb29ce38ca53506c70e2d56f"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
