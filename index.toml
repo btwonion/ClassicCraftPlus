@@ -493,6 +493,11 @@ hash = "2bfb77eab828422028ca77b7c3caf566613bd6f85fa4569b3df241d2a30a2e92"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "258432c5c7b93cac4328d3bfd34d5ff8d4ce55212fd5adb0fc1b0efbc99d8c70"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "3dedde5213176d72e1c353877fa44315945e8f3da2ba05f5679d81e9f558bb1d"
 metafile = true
@@ -505,6 +510,11 @@ metafile = true
 [[files]]
 file = "mods/make_bubbles_pop.pw.toml"
 hash = "ac2ca5caef9ddb4fd53c035bfaf07026f12bcdb162d19c2fa473bdec8fbec630"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "962dddb3d561cfb056c53b5b308016b83755651c1c462cb6abc0889471ca36e9"
 metafile = true
 
 [[files]]
