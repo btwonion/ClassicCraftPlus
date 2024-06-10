@@ -81,6 +81,10 @@ file = "config/yosbr/config/iris.properties"
 hash = "37bb936f1c3ed7f696ba1ec637e4df6a98da4237137d17ce9705d1e8141a3129"
 
 [[files]]
+file = "config/yosbr/config/litematica.json"
+hash = "86bb82962f2801f102c109f9a9843946f2fd2b85b132583424541b934491257f"
+
+[[files]]
 file = "config/yosbr/config/lithium.properties"
 hash = "9a6a542c364d7e342820e12480784a10ffba62d1cc81f3aa76ec31e66934ec56"
 
