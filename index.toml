@@ -597,11 +597,6 @@ hash = "849d75109c9945c9900c2ca6e0c3ff7f3036b7f72a10722241962fe79e8a9516"
 metafile = true
 
 [[files]]
-file = "mods/nvidium.pw.toml"
-hash = "07dd8775324c01058896b4572e23a1ca1c355186cc501c61fc68e1151c5e177c"
-metafile = true
-
-[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "7c647f3090c57732c32306de0a080ea190ec6562af5dbc2be3e7a9d4cadc8b7c"
 metafile = true
