@@ -189,7 +189,7 @@ metafile = true
 
 [[files]]
 file = "mods/anti-xray.pw.toml"
-hash = "c746125c8dd7bb2d3a0386e8917378f5327a1237b6aece3c52923ec3044f78e3"
+hash = "8c6ffb912b906723b7e8f0f8f44de2829ca59abecaab6a4a6e44d426ce9dc51e"
 metafile = true
 
 [[files]]
@@ -315,6 +315,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "951d42cf8154f811de3135952d5f444679946ab7c948e33d87da744679901803"
+metafile = true
+
+[[files]]
+file = "mods/copper-hopper.pw.toml"
+hash = "a4326bc8bd4526da939490255db154faf5054da3397b071887b994b3669a806c"
 metafile = true
 
 [[files]]
@@ -793,7 +798,7 @@ hash = "f89a70322134dacb15ea165d703ac1b0acb43190bb29ce38ca53506c70e2d56f"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "5975a2513ad3de7d0bc32684d907515d0566d8d312b609df8624f7dbc53442c8"
+hash = "41fbddad14b67a342e35eb7d2c96cfb555014c0f9c0e1e2866a3d2516a33c971"
 metafile = true
 
 [[files]]
