@@ -193,7 +193,7 @@ metafile = true
 
 [[files]]
 file = "mods/anti-xray.pw.toml"
-hash = "5fa9871e3e75f00be37d9d866846192b5d0ff2fb0aa024b8e5214d89871c0a5e"
+hash = "4b542e7666e3cae9f7397de414938dd28e681f7278723d216ce686abffa0c8c3"
 metafile = true
 
 [[files]]
