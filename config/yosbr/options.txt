@@ -112,4 +112,6 @@ key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_key.gamma_utils.increase_gamma:key.keyboard.up
 key_key.gamma_utils.decrease_gamma:key.keyboard.down
+key_key.raised.options:key.keyboard.unknown
+key_key.freecam.toggle:key.keyboard.f6
 soundCategory_music:0.0
