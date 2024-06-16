@@ -703,7 +703,7 @@ metafile = true
 
 [[files]]
 file = "mods/telekinesis.pw.toml"
-hash = "312cf49d0be0447880cb2924ad77b19b060e9e66e368968c9624936da0ea7dd3"
+hash = "fe0fe357aa8acd0d5843b9997d78fecf88d9cdcfd12d4b008b764113855399c8"
 metafile = true
 
 [[files]]
