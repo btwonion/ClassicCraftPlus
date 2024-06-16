@@ -297,6 +297,11 @@ hash = "d6de8fe9381427b13c6ecb2b80058b85f2cedf1d71678e9f680ffd3fa6b966ae"
 metafile = true
 
 [[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "036d009af60574df8360686d4cc8c194ec8b617e444244db805263176b922c97"
+metafile = true
+
+[[files]]
 file = "mods/cicada.pw.toml"
 hash = "d8031e0a2f5cb50f07b7625e6d39b3b48e87b88944644b25a87d6e17f503674a"
 metafile = true
@@ -333,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "8eda14f9c18b7886871baf01634f2c8d3225e2c909a41da07437e2018f186784"
+hash = "fdaf9a15414ff330b44b60b8ad02b1a400bc0ad552ca722c4820b27c2947867c"
 metafile = true
 
 [[files]]
@@ -699,6 +704,16 @@ metafile = true
 [[files]]
 file = "mods/stellarity.pw.toml"
 hash = "51402aa3fdf2e02f1492f1386bcbb4c458add770708a4df0e939b8b7a981cf5b"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "f17a3b340c9e1535dce9a81a2f6d4a069dfd3defdcbbc6eb005bb6494a900c02"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "95cbc03a19c9df9a45a0944f9ad4bf9e6f127f641f1aa6ecc63569c0d7021ee7"
 metafile = true
 
 [[files]]
