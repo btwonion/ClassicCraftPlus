@@ -57,6 +57,10 @@ file = "config/yosbr/config/entityculling.json"
 hash = "6bb3b6b65f728d5c3d06dd986b85d21370e3b78a30629b7a1ab7a0a46e033768"
 
 [[files]]
+file = "config/yosbr/config/extended_drawers.json"
+hash = "2770b51797c7b843e0d7d230f7600474ecb9adfeb72b48e85130b4e449d10f93"
+
+[[files]]
 file = "config/yosbr/config/fallingtree.json"
 hash = "d7deba7eb4505aaa53e247e1506a0e4451f49e7d902d55ee31ab02318c3d3ec3"
 
