@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/anti-xray.pw.toml"
-hash = "2be2f991e6dc62b7a586fd00e540abe41b7f2f717b5193828d0ea68c9621de27"
+hash = "0d5221a2fa242b22d3a3f76487b1245004f2778790def8bf0c09c5aa034e8110"
 metafile = true
 
 [[files]]
@@ -582,7 +582,7 @@ metafile = true
 
 [[files]]
 file = "mods/no_fog.pw.toml"
-hash = "8d8b97075134e0489d2291ffc2390bfd1aec5eb4620559076ab1046c61e7427b"
+hash = "87752c2ef347d30430415e1a732be54e7312109bf2823d2087198d0112297743"
 metafile = true
 
 [[files]]
@@ -707,7 +707,7 @@ metafile = true
 
 [[files]]
 file = "mods/telekinesis.pw.toml"
-hash = "fe0fe357aa8acd0d5843b9997d78fecf88d9cdcfd12d4b008b764113855399c8"
+hash = "37e7b6e19dfe69892408724471c0eea8b71679d28f34dee5d4f417f64282e6a1"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "AntiXray"
-filename = "antixray-fabric-1.4.1+1.20.4.jar"
+filename = "antixray-fabric-1.4.2+1.20.4.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/sml2FMaA/versions/aHc1OjIS/antixray-fabric-1.4.1%2B1.20.4.jar"
+url = "https://cdn.modrinth.com/data/sml2FMaA/versions/h4gHhlmO/antixray-fabric-1.4.2%2B1.20.4.jar"
 hash-format = "sha1"
-hash = "3e7cb3c06a4cd75c4486a56ee7fd83a63047a703"
+hash = "5002081a93a4c627fa4a618b2304d19104e7fdbb"
 
 [update]
 [update.modrinth]
 mod-id = "sml2FMaA"
-version = "aHc1OjIS"
+version = "h4gHhlmO"
