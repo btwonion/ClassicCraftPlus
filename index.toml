@@ -547,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "f334786b4fa5a2cb0a6a952fa2a6ab74de3395c2be806045ea3a5905edd75363"
+hash = "d6aecbaf1fbfa8c4bd57184d515892c40f6fd00ed9c265468059d72c028a48aa"
 metafile = true
 
 [[files]]
@@ -707,7 +707,7 @@ metafile = true
 
 [[files]]
 file = "mods/telekinesis.pw.toml"
-hash = "91f21a4881e9d99e3ce4034d07719b3b6acfee442dc7e38a3724784491d8ba08"
+hash = "d67fc5dfa34c75c03b7cddbe4a90a21298d8f6a07f0e27e1692664ada159ec3a"
 metafile = true
 
 [[files]]
