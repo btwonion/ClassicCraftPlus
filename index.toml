@@ -457,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "ccb45ba49b84224fbce01b9612cab24332472551c1d0c415654706e17c4cae73"
+hash = "8b095b4d08ca635469699556d1a6ce979ae614d33b849a57df9ca012a067faec"
 metafile = true
 
 [[files]]
@@ -662,7 +662,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "f9186f368f07be8d4f532d3f4fd25535f6d4e7ff9278b0e7e48f984807da016b"
+hash = "8ef792d3eeb1e5d220a01ba035c887afc4cfd06f8b5daffe2770bdb6a6bef512"
 metafile = true
 
 [[files]]
@@ -707,7 +707,7 @@ metafile = true
 
 [[files]]
 file = "mods/telekinesis.pw.toml"
-hash = "37e7b6e19dfe69892408724471c0eea8b71679d28f34dee5d4f417f64282e6a1"
+hash = "91f21a4881e9d99e3ce4034d07719b3b6acfee442dc7e38a3724784491d8ba08"
 metafile = true
 
 [[files]]
@@ -777,7 +777,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "59645352080c5d972b2cb3a8cd560e9f12c5433950439e7d5ec5c574184aedfd"
+hash = "b8e2a94fbe58344db3f5d075082883c767a1aa14f14c83387a7cdde8734cf372"
 metafile = true
 
 [[files]]

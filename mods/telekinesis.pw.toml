@@ -1,13 +1,13 @@
 name = "telekinesis"
-filename = "telekinesis-3.0.0-beta3-1.20.4.jar"
+filename = "telekinesis-3.0.0-beta5-1.20.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LLfA8jAD/versions/v6jsQXsf/telekinesis-3.0.0-beta3-1.20.4.jar"
+url = "https://cdn.modrinth.com/data/LLfA8jAD/versions/3H1wEkiZ/telekinesis-3.0.0-beta5-1.20.4.jar"
 hash-format = "sha1"
-hash = "c7dc6d1e214667dbb00c34f63943de9eab7a4eed"
+hash = "b6ec38af338ac7265e1390231410a69b4b427f14"
 
 [update]
 [update.modrinth]
 mod-id = "LLfA8jAD"
-version = "v6jsQXsf"
+version = "3H1wEkiZ"
