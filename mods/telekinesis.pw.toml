@@ -1,13 +1,13 @@
 name = "telekinesis"
-filename = "telekinesis-3.0.0-beta6-1.20.4.jar"
+filename = "magnetic-3.9.1-1.21.11+fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LLfA8jAD/versions/MY7bpTsh/telekinesis-3.0.0-beta6-1.20.4.jar"
-hash-format = "sha1"
-hash = "3c6dcd9b64edc7922471f658dcddc06d7edd17cc"
+url = "https://cdn.modrinth.com/data/LLfA8jAD/versions/Vt6ZiiAY/magnetic-3.9.1-1.21.11%2Bfabric.jar"
+hash-format = "sha512"
+hash = "42d49abf4864a52df6f2774c9e3a15c366b60c1edeb2d37735ec43ff90f122d6d88eae4b4ba5fc7e3ba8661f9c3605b32ba2883dc1469ccc81b4bb8d47229a7e"
 
 [update]
 [update.modrinth]
 mod-id = "LLfA8jAD"
-version = "MY7bpTsh"
+version = "Vt6ZiiAY"
