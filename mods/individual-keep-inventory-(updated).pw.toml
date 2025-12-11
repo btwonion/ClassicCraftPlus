@@ -1,0 +1,13 @@
+name = "Individual Keep Inventory (Updated)"
+filename = "individualkeepinv-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/73Hlq8xM/versions/2qD3xc19/individualkeepinv-1.0.0.jar"
+hash-format = "sha512"
+hash = "7290739d712403d962c8be9cccc66428598950eb011008119544d4ff1366adb8279442ca59c4c1c8c6054ce79649b29867b0a66c806ed8b03b61dacf60b49587"
+
+[update]
+[update.modrinth]
+mod-id = "73Hlq8xM"
+version = "2qD3xc19"

@@ -1,13 +1,13 @@
 name = "Copper Hopper"
-filename = "copperhopper-0.7.0+1.20.4.jar"
+filename = "copperhopper-0.19.0+1.21.10.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/mTI5Xg5F/versions/msBAt80E/copperhopper-0.7.0%2B1.20.4.jar"
-hash-format = "sha1"
-hash = "a4c3a49657108ca2ca60afae6c2477bee8aa7a0e"
+url = "https://cdn.modrinth.com/data/mTI5Xg5F/versions/SXOTDMsc/copperhopper-0.19.0%2B1.21.10.jar"
+hash-format = "sha512"
+hash = "77f054b771474a1c11b9a49160ffcba0a049253caf024f4e59a70f0e5fafd07bd11107f06b4efd2b3b605d95f5c940c89c685e9524f7a29c91cfa89d52b1d857"
 
 [update]
 [update.modrinth]
 mod-id = "mTI5Xg5F"
-version = "msBAt80E"
+version = "SXOTDMsc"
