@@ -1,0 +1,13 @@
+name = "Freecam (Fair Play)"
+filename = "legacy-freecam-fabric-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tWqI1yhH/versions/umop82vO/legacy-freecam-fabric-1.1.0.jar"
+hash-format = "sha512"
+hash = "cc7ff5fa21313fd4afbc664d5dbd4b397a43c15d73a7d061f04c04633589c382c394ad1da4dd78a3450926c001e012bde1f04850c09aeefc39bf553c21491dff"
+
+[update]
+[update.modrinth]
+mod-id = "tWqI1yhH"
+version = "umop82vO"
