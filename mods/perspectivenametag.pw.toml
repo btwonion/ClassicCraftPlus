@@ -1,13 +1,13 @@
 name = "Perspective Nametag"
-filename = "perspectivenametag-fabric-1.21.2-1.0.0.jar"
+filename = "perspectivenametag-fabric-1.21.2+1.21.11-1.0.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/7vrSE44N/versions/1Z6SDi1e/perspectivenametag-fabric-1.21.2-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/7vrSE44N/versions/5rgeHNke/perspectivenametag-fabric-1.21.2%2B1.21.11-1.0.1.jar"
 hash-format = "sha512"
-hash = "6de015fcc59514ffdda186e23cfb3976abd2560b4d7ed45327466603ef33f4192a0f2a8b801b9b8fa13cad645693b0dd851e8f09ccc095a37b10b599295315ca"
+hash = "7267f9c816ece2d5f2c2c896183ab364b0b609fb060930ab8faa85bd9b376825c17fba70f5d3e3b0b4c599ef7069fda692addf3ea188390a6527e72a6c522d43"
 
 [update]
 [update.modrinth]
 mod-id = "7vrSE44N"
-version = "1Z6SDi1e"
+version = "5rgeHNke"
