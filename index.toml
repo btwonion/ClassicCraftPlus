@@ -99,7 +99,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-boat-movement.pw.toml"
-hash = "791df26102a35410fbee013921dd5b2e8e5306f6e40cb6c8f7a8d58439382853"
+hash = "70641374def36721eb14e425de4c876249e7db14b5a602f962236b75d84c479b"
 metafile = true
 
 [[files]]
@@ -109,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterping.pw.toml"
-hash = "3c16bdf3c4058feae084e466b7f4960b1193796d501cbe8fe5febe2dd291800c"
+hash = "6940ea16a76d998b7a709dd9a0fafc3644f557b8cb0a4d2f2f61f08f5991fc5a"
 metafile = true
 
 [[files]]
@@ -169,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "fdaf9a15414ff330b44b60b8ad02b1a400bc0ad552ca722c4820b27c2947867c"
+hash = "e6fa1632b026d953acccb4822e65d5aff008df0ee778b49d174d45db06b50dc0"
 metafile = true
 
 [[files]]
@@ -239,12 +239,12 @@ metafile = true
 
 [[files]]
 file = "mods/formations-nether.pw.toml"
-hash = "cfdef44464ccf6c3a9b0fa7a48bbbfa40049765c01c3aaf225fddd167cd5eeec"
+hash = "1c4b3654edf0774463e11264e96d3622d34a4f3af9aa2971206182ffda6a3cfa"
 metafile = true
 
 [[files]]
 file = "mods/formations.pw.toml"
-hash = "0a58d2743fe91e8fbeb53b96f3c45a52a0fd2a69ffa99977f77834aa7c5b0cff"
+hash = "459cbf16a35898b16a6178bc1ce4e4fa272ad25d656cacb51686ff6ace40bf51"
 metafile = true
 
 [[files]]
@@ -258,13 +258,18 @@ hash = "17a39f71985dd963c15fe6ed5acf7cff675c7d5d0a8508a2664767c911faea51"
 metafile = true
 
 [[files]]
+file = "mods/geyser.pw.toml"
+hash = "1b2033438cfcffb8915c7775981fe93e0847fa65735c32688ecbe432b7bd2e3e"
+metafile = true
+
+[[files]]
 file = "mods/headindex.pw.toml"
 hash = "a3c3a2a4169f225bbf039517bda5136d34fcec30c6341e84077f03b27d39a454"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "dc930299b4c11cbd31712a3b91231bac4be1f34d00a464bfbe1a0674f5187d11"
+hash = "402069ebe33a1f19e6e5c0c0235267b832ba44617f15ddbdc677faf2a2607e38"
 metafile = true
 
 [[files]]
@@ -274,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "442468b81b595bb843af8ca225b51dbf5389f3ddaf07c009d1d2e6bc9f8d7610"
+hash = "43ae42453ad9c79d9ab1158e13b3230f3dd5d43c6abc088f566038152af3347f"
 metafile = true
 
 [[files]]
@@ -323,11 +328,6 @@ hash = "c8da9df94366869dacc80807029f14edb4c583420b7b2d5193d6da06e85150ea"
 metafile = true
 
 [[files]]
-file = "mods/minihud.pw.toml"
-hash = "e1bdd6fe057de088e1aab32b70309185bdfe6f004146067b7b14d4f83fbb207b"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "6dbca2c20d66b076bb4e8959ea0e26887991acf48f785aae402e066d5e3eb6ea"
 metafile = true
@@ -354,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisiumforked.pw.toml"
-hash = "c1906aafc5af2f95945d31f840263f3490efe781461fbcee33df3f3a68c431b3"
+hash = "15509fd5106b593850a733ef124e4cd99306408ea0b69360b6e81a3a9288484a"
 metafile = true
 
 [[files]]
@@ -379,7 +379,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "cc0b62c6c80596530c3f3cda047ed7fb464f8ef5da21d38a01a54c298e1f9194"
+hash = "383d8df46529ce54b4b0574be2fd9eba4f45d8c85aa668604e152fca3e439f5a"
 metafile = true
 
 [[files]]
@@ -424,12 +424,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "382ad4f938be83c05d9ae6dc7bf24581f54173f5345c485abf3e3ff7618bb59e"
+hash = "80fe8de18aab2ba3399f61c6a74a4ad70e56bf5ed49f5fc0f051190d3ba59f2b"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "f61bd9fbfa3fcc5d8267b5cbe6af08c93385752ddc6e6b74df0fbcfd5747e413"
+hash = "c0a85192cfec296d8ab8690e91bfeb932efde590af289ec263616ed36543cee7"
 metafile = true
 
 [[files]]
