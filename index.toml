@@ -50,7 +50,7 @@ hash = "da154394968a0e7996e7815e91bafec989f77fa7fae118b69b8c1055c3e316a7"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "02deb2f5f982c8134db3ada7e05f88553d4cc0ba2985ef586f7ca6cffeb06726"
+hash = "9f9795a2003fd4d922ea6317faca3a0ab531381b82d13bca87b5e20f713ea389"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -495,11 +495,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/better-leaves.pw.toml"
 hash = "f23b343e4a4555895e697c5ce98971809056a721e4732e25ea5b6952d91c0180"
-metafile = true
-
-[[files]]
-file = "resourcepacks/dark-gui-exp.pw.toml"
-hash = "e4c1d074471d366dd13608341fb4cf4448cf26063972f324fce6e4742c2582fd"
 metafile = true
 
 [[files]]
