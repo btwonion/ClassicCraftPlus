@@ -49,10 +49,6 @@ file = "config/yosbr/config/sodium-options.json"
 hash = "068fc165435c8734b43d5f735cfbe42d015356d157222d577012e45b3bf0a989"
 
 [[files]]
-file = "config/yosbr/config/threadtweak.json"
-hash = "13d8a5b1e920c988d3308b31f308397f868e0505ab63fe6b7add76a4c2cc12ef"
-
-[[files]]
 file = "config/yosbr/config/vmp.properties"
 hash = "da154394968a0e7996e7815e91bafec989f77fa7fae118b69b8c1055c3e316a7"
 
