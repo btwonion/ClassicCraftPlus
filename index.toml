@@ -9,6 +9,10 @@ file = "config/yosbr/config/badoptimizations.txt"
 hash = "2917a8f8112e36e27b240bdbe0e6987c5e8b0964595ed42ca2fbe1b16350df71"
 
 [[files]]
+file = "config/yosbr/config/betterblockentities.json"
+hash = "08e3f7732b6fe45a7e3516148e33c43a3a5bfdb645e99211e79dbfc713df138a"
+
+[[files]]
 file = "config/yosbr/config/c2me.toml"
 hash = "a72fb311d1a56ac2b4c069b5225f8c7d09302fe4250ee3a842145ae271a2d5a2"
 
@@ -43,6 +47,10 @@ hash = "ad9502638dfc64191c82e28efeede417bd4ab32b6276e60117bc978e41b936bd"
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "068fc165435c8734b43d5f735cfbe42d015356d157222d577012e45b3bf0a989"
+
+[[files]]
+file = "config/yosbr/config/threadtweak.json"
+hash = "13d8a5b1e920c988d3308b31f308397f868e0505ab63fe6b7add76a4c2cc12ef"
 
 [[files]]
 file = "config/yosbr/config/vmp.properties"
@@ -95,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "8d01c74085981dbd3905a2437fca1219af70835dfa0b96edfd1b0381d53e98db"
+metafile = true
+
+[[files]]
+file = "mods/better-block-entities.pw.toml"
+hash = "d297f370d36b9afe3eed3cdabb48c919965ae61237a100d5a04ca17dcd9aa32c"
 metafile = true
 
 [[files]]
@@ -328,6 +341,11 @@ hash = "c8da9df94366869dacc80807029f14edb4c583420b7b2d5193d6da06e85150ea"
 metafile = true
 
 [[files]]
+file = "mods/modernfix-mvus.pw.toml"
+hash = "c9371f29c69e46c97a5ef67e357fd611d7fbed394efda6fb7abe628fcfc49a4f"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "6dbca2c20d66b076bb4e8959ea0e26887991acf48f785aae402e066d5e3eb6ea"
 metafile = true
@@ -345,6 +363,11 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "a6f6ce53fae24a32a2035ba448812ada4c7aaaee49fd0d4bb2b4b892390aef7f"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "820d98a1f8bdcbf5772fda8670d6e353c120a4df8cfb478aa9b744429253a216"
 metafile = true
 
 [[files]]
