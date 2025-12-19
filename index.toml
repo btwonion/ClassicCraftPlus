@@ -267,11 +267,6 @@ hash = "17a39f71985dd963c15fe6ed5acf7cff675c7d5d0a8508a2664767c911faea51"
 metafile = true
 
 [[files]]
-file = "mods/geyser.pw.toml"
-hash = "1b2033438cfcffb8915c7775981fe93e0847fa65735c32688ecbe432b7bd2e3e"
-metafile = true
-
-[[files]]
 file = "mods/headindex.pw.toml"
 hash = "a3c3a2a4169f225bbf039517bda5136d34fcec30c6341e84077f03b27d39a454"
 metafile = true
