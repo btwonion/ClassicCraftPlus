@@ -20,4 +20,3 @@ operatorItemsTab:true
 menuBackgroundBlurriness:0.0
 soundCategory_master:0.4
 soundCategory_music:0.1
-resourcePacks:["vanilla","file/§b§lVanilla Experience+§0.zip","file/Better-Leaves-9.4.zip","clientsort:clientsort-dark-mode","black_icons"]

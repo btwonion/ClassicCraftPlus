@@ -54,7 +54,7 @@ hash = "da154394968a0e7996e7815e91bafec989f77fa7fae118b69b8c1055c3e316a7"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "9f9795a2003fd4d922ea6317faca3a0ab531381b82d13bca87b5e20f713ea389"
+hash = "02deb2f5f982c8134db3ada7e05f88553d4cc0ba2985ef586f7ca6cffeb06726"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -177,11 +177,6 @@ hash = "6a5f5dae975f9686643bba56cc12be4f9641257b7d739d178b2e7940e465cb1f"
 metafile = true
 
 [[files]]
-file = "mods/ct-overhaul-village.pw.toml"
-hash = "e6fa1632b026d953acccb4822e65d5aff008df0ee778b49d174d45db06b50dc0"
-metafile = true
-
-[[files]]
 file = "mods/detail-armor-bar-reconstructed.pw.toml"
 hash = "4a4d1e1b5afdc1cf7f810321315e26662ff92b0c10abf85203174773d6075e14"
 metafile = true
@@ -194,11 +189,6 @@ metafile = true
 [[files]]
 file = "mods/dungeons-and-taverns-swamp-hut-overhaul.pw.toml"
 hash = "26eed7c888806f5a9b33d07cf31a9e8a32128cadbcc0c3fe2e427e19e30d75df"
-metafile = true
-
-[[files]]
-file = "mods/dungeons-and-taverns-swamp-hut-rework.pw.toml"
-hash = "079d2ba04c8ce281d70f47b4dd8e84fd4f66ea1a2b3a3b8a5e45e28025fffcae"
 metafile = true
 
 [[files]]
@@ -227,11 +217,6 @@ hash = "61afd7af5c645ffd966b2bd86be944eacd1e48a8044e8f67082225d4d9989f0c"
 metafile = true
 
 [[files]]
-file = "mods/fallingtree.pw.toml"
-hash = "897b2b7a7b9cb7ffecbd106e75c726f509c812fc209551a7f846128e7b494105"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "76a12a836d4c7f0f943a1e391dd2d7b5c4673caa497fff16593d49449376b117"
 metafile = true
@@ -247,23 +232,8 @@ hash = "b22f1d052eee2810fda73d850dd6f425a1214965e03a5a9dada421abfe74603b"
 metafile = true
 
 [[files]]
-file = "mods/formations-nether.pw.toml"
-hash = "1c4b3654edf0774463e11264e96d3622d34a4f3af9aa2971206182ffda6a3cfa"
-metafile = true
-
-[[files]]
-file = "mods/formations.pw.toml"
-hash = "459cbf16a35898b16a6178bc1ce4e4fa272ad25d656cacb51686ff6ace40bf51"
-metafile = true
-
-[[files]]
 file = "mods/gamma-utils.pw.toml"
 hash = "13e8a24074dcdab4b26b834f9d3ff8ce56a8aa1e8f743d1d1836d423b9f9a2e1"
-metafile = true
-
-[[files]]
-file = "mods/geophilic.pw.toml"
-hash = "17a39f71985dd963c15fe6ed5acf7cff675c7d5d0a8508a2664767c911faea51"
 metafile = true
 
 [[files]]
@@ -309,11 +279,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "88a36b21d538d44aca7dd0a7e5ad8c09b1b263be3f4381e3bb22bc9f94ee7290"
-metafile = true
-
-[[files]]
-file = "mods/lithostitched.pw.toml"
-hash = "57c68f1313cddaa362fcbbad1a13cfaae8323c6eba72b09902f79d0b0f394ade"
 metafile = true
 
 [[files]]
@@ -417,11 +382,6 @@ hash = "1179dcf06cb5cd91ab60d719686b6d10ea7a524016930355618fb169bfcc6520"
 metafile = true
 
 [[files]]
-file = "mods/silk.pw.toml"
-hash = "a4c742db2f87bd02aa5dfd47faab025d985a9e21e69c72dd923a643a7a908513"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "5936eea7a83a33027fae99530fec0fa76511ee1ecbfee8125944ba1f470e7713"
 metafile = true
@@ -462,16 +422,6 @@ hash = "67205898e1b84c769f523e84f77aa49cc434789ec8da865f7715f27d9b841fa2"
 metafile = true
 
 [[files]]
-file = "mods/toms-storage.pw.toml"
-hash = "8dd497af9034181c2eed21c0ce941192e9c69255dbf51557900bb508d7136701"
-metafile = true
-
-[[files]]
-file = "mods/veinminer.pw.toml"
-hash = "fc7bfaa3cc133f968b1a4ee6f0635c2980fb277870aec45e9d68ff313b0d1d9d"
-metafile = true
-
-[[files]]
 file = "mods/villager-guards.pw.toml"
 hash = "642e1ffdb437eb36a73e144c110aaf6bd2404ca7492ba6249f8e35cbd162d800"
 metafile = true
@@ -484,11 +434,6 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "d21872a45afdb441d7124afce6d80bd01714ba13ac6956e4adf5003b353f1059"
-metafile = true
-
-[[files]]
-file = "mods/waystones.pw.toml"
-hash = "bf17a6d6bc69152277eef46fb3b824f3df3a5f9dcd279f045247e7103b429da8"
 metafile = true
 
 [[files]]
@@ -512,8 +457,8 @@ hash = "f23b343e4a4555895e697c5ce98971809056a721e4732e25ea5b6952d91c0180"
 metafile = true
 
 [[files]]
-file = "resourcepacks/vanilla-exp.pw.toml"
-hash = "ebd636e92a12c52b1f458e08c13b65cba37becd8512476cae27b90fe2d579cfa"
+file = "resourcepacks/faithful-64x.pw.toml"
+hash = "b372f716284513fd41fc72a9ac8e98db55eb9eb2d9c6c7b5638e8db863ecae80"
 metafile = true
 
 [[files]]
