@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "bf1cd023d328ab35eb85ffeffc55d2177dc603b28f5e168f87dd15d169d09a3f"
+hash = "1b6acd374e376f9dee939184a228eb8b1a8fd1abb5074a8a6cff2473712aeadb"
 metafile = true
 
 [[files]]
@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "72f3dbfcfbf16d8437d865b090c4338cf32de86f290e8e8dde5626cb301bb4c7"
+hash = "aed9bbc1e24a8db8f57a9bea98460638abf832aaa5281d607657bd3063022348"
 metafile = true
 
 [[files]]
