@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/clientsort.pw.toml"
-hash = "f08478092de1b182154cccb4208a397b6ce0ec6027f563a2adce4203d9b51884"
+hash = "a2dd570b2ef1ff660000db622edb5a0bebc42e6b2edfe31e95af305bc1a2948c"
 metafile = true
 
 [[files]]
@@ -177,6 +177,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "b22f1d052eee2810fda73d850dd6f425a1214965e03a5a9dada421abfe74603b"
+metafile = true
+
+[[files]]
+file = "mods/freecam.pw.toml"
+hash = "11c608b6ef3ca111e9bccd9c4aeb8c47cf0b1f5db48054abc89d6a5f1a978aac"
 metafile = true
 
 [[files]]
@@ -367,11 +372,6 @@ metafile = true
 [[files]]
 file = "mods/telekinesis.pw.toml"
 hash = "67205898e1b84c769f523e84f77aa49cc434789ec8da865f7715f27d9b841fa2"
-metafile = true
-
-[[files]]
-file = "mods/villager-guards.pw.toml"
-hash = "642e1ffdb437eb36a73e144c110aaf6bd2404ca7492ba6249f8e35cbd162d800"
 metafile = true
 
 [[files]]
