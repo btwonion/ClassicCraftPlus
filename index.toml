@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/better-boat-movement.json"
+hash = "1c4e87b31d83a3965db07ebba8f35403398f126a1cd49f95bafcedb7cc641219"
+
+[[files]]
+file = "config/yosbr/config/litematica.json"
+hash = "bea475ccb7a13d72822b2c15b08746f5168eb561c7bdd8b66dc0a61fd9d49539"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "02deb2f5f982c8134db3ada7e05f88553d4cc0ba2985ef586f7ca6cffeb06726"
 
@@ -195,6 +203,11 @@ hash = "a3c3a2a4169f225bbf039517bda5136d34fcec30c6341e84077f03b27d39a454"
 metafile = true
 
 [[files]]
+file = "mods/horse-expert.pw.toml"
+hash = "0b1417614f01ffdb6608a56551b3cddd41138a2eda89c2ba464372e81f617e2a"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "402069ebe33a1f19e6e5c0c0235267b832ba44617f15ddbdc677faf2a2607e38"
 metafile = true
@@ -307,6 +320,11 @@ metafile = true
 [[files]]
 file = "mods/perspectivenametag.pw.toml"
 hash = "b69859c03bf8936fcd9bfb5c6a83fd1c6cc7fb7ec4c6e284d5ca0e9cfbd581b5"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "f3e9b0ac5a63f905fcf7923e71556e4ee435b858d60f05219e9ea4fcde45694a"
 metafile = true
 
 [[files]]
