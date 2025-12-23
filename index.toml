@@ -10,7 +10,7 @@ hash = "bea475ccb7a13d72822b2c15b08746f5168eb561c7bdd8b66dc0a61fd9d49539"
 
 [[files]]
 file = "config/yosbr/config/magnetic.json"
-hash = "f83f9bfb3b680ed1b6d79e4dcabc8cbeff2c2679828e6f2e2044f4d8358ef0c9"
+hash = "a64443ad5b2e27a74080a03374e083a68fd5146d1427488d6605ac2c12651486"
 
 [[files]]
 file = "config/yosbr/options.txt"
