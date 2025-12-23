@@ -1,0 +1,31 @@
+{
+    "version": 4,
+    "config": {
+        "conditionStatement": {
+            "raw": "ENCHANTMENT"
+        },
+        "itemsAllowed": true,
+        "expAllowed": true,
+        "ignoredEntitiesRangeMin": 50,
+        "ignoreEntities": [],
+        "fullInventoryAlert": {
+            "soundAlert": {
+                "enabled": true,
+                "cooldownInSeconds": 5
+            },
+            "textAlert": {
+                "enabled": true,
+                "cooldownInSeconds": 60
+            },
+            "titleAlert": {
+                "enabled": true,
+                "cooldownInSeconds": 5
+            }
+        },
+        "animation": {
+            "enabled": false,
+            "blocksPerSecond": 1.0,
+            "canOtherPlayersPickup": false
+        }
+    }
+}
