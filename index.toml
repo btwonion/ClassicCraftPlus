@@ -9,6 +9,10 @@ file = "config/yosbr/config/litematica.json"
 hash = "bea475ccb7a13d72822b2c15b08746f5168eb561c7bdd8b66dc0a61fd9d49539"
 
 [[files]]
+file = "config/yosbr/config/magnetic.json"
+hash = "f83f9bfb3b680ed1b6d79e4dcabc8cbeff2c2679828e6f2e2044f4d8358ef0c9"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "02deb2f5f982c8134db3ada7e05f88553d4cc0ba2985ef586f7ca6cffeb06726"
 
@@ -94,7 +98,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "1b6acd374e376f9dee939184a228eb8b1a8fd1abb5074a8a6cff2473712aeadb"
+hash = "c252a208703bd1e996fb036540d1ed1017acf04eb99263f1792839d179b406c5"
 metafile = true
 
 [[files]]
@@ -114,7 +118,7 @@ metafile = true
 
 [[files]]
 file = "mods/clickthrough+.pw.toml"
-hash = "2ac8ec86b2c23dec1b54c87389e96814fedd872b52681aa441f9429b5a911fc9"
+hash = "4bc421c9867393e643ec08d49e005071c70ec911d77adf39e89ba84439167437"
 metafile = true
 
 [[files]]
@@ -219,7 +223,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "43ae42453ad9c79d9ab1158e13b3230f3dd5d43c6abc088f566038152af3347f"
+hash = "b7d33095f206cb34dc8cd3d5410a00597439a2fc793f4c158c7a2ecfc7e85e82"
 metafile = true
 
 [[files]]
@@ -279,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "6dbca2c20d66b076bb4e8959ea0e26887991acf48f785aae402e066d5e3eb6ea"
+hash = "c66e4b3576440113259b5bae8d0660b8e0023ce852156f27383f8651ecc4bfe3"
 metafile = true
 
 [[files]]
@@ -384,7 +388,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "c0a85192cfec296d8ab8690e91bfeb932efde590af289ec263616ed36543cee7"
+hash = "dd8c7eed10a3639d76595603142e1d18f6d26262747138c9442d70311006be5e"
 metafile = true
 
 [[files]]
