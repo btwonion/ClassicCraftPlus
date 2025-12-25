@@ -1,0 +1,13 @@
+name = "Fakeplayer Chunkloader"
+filename = "fakeplayerchunkloader1.21.11-fabric-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kzMRcN1M/versions/qWe35ZPO/fakeplayerchunkloader1.21.11-fabric-1.0.3.jar"
+hash-format = "sha512"
+hash = "2387516eac07e41a2114d7a8579e7284f2f9de439312701c61ca933b8478cbbdbd31afdd42da11931707db394b977f53b531c6cab68565d71cb5ba92dbba7ffd"
+
+[update]
+[update.modrinth]
+mod-id = "kzMRcN1M"
+version = "qWe35ZPO"

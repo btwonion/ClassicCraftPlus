@@ -1,12 +1,12 @@
 name = "ClassicCraft+"
 author = "btwonion"
-version = "4.4.5"
+version = "4.4.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "51cb491aaf4ba206f927ab04d2ed9540007d87efe3cb4538d09403d10e3c2e0e"
+hash = "6a2b1475657014c1a5598334949cd63e0d7ad0b53cd3c38fc3eee15e22974307"
 
 [versions]
 fabric = "0.18.2"

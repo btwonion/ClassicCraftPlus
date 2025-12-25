@@ -63,7 +63,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-block-entities.pw.toml"
-hash = "d297f370d36b9afe3eed3cdabb48c919965ae61237a100d5a04ca17dcd9aa32c"
+hash = "cb1b225bb04b606ab22b2378048f2e040cff6ba9acdd1013daa054abd606b265"
 metafile = true
 
 [[files]]
@@ -73,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "ab5d642244ca6e19d58fb0b199985724620bf44d3dbad506e23c2d4c93a4bcb3"
+hash = "b7228724af3b37dfd3c1e0a1624af0972fa7a665c68bb3cc4c3964bdd7c78acf"
 metafile = true
 
 [[files]]
@@ -177,6 +177,11 @@ hash = "61afd7af5c645ffd966b2bd86be944eacd1e48a8044e8f67082225d4d9989f0c"
 metafile = true
 
 [[files]]
+file = "mods/fakeplayerchunkloader.pw.toml"
+hash = "9467ac5b71b3d005791cdbb12134fd3a0122401861b15ea57613713c0a1a07fc"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "76a12a836d4c7f0f943a1e391dd2d7b5c4673caa497fff16593d49449376b117"
 metafile = true
@@ -253,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "88a36b21d538d44aca7dd0a7e5ad8c09b1b263be3f4381e3bb22bc9f94ee7290"
+hash = "0e87ab10adb3db84b1d6d2ce8bdd7158878b56c965055056b10ad6cde2634568"
 metafile = true
 
 [[files]]
@@ -398,7 +403,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "ee5a9ad071c2c1c82932b5b5e7731b3bf27e4342bee6082aef03fa431b02e195"
+hash = "a40c3a4112203558bfa6bccc781b57b6da8da5ba57fd04b0086c19b591125c5f"
 metafile = true
 
 [[files]]
@@ -447,7 +452,7 @@ hash = "f89a70322134dacb15ea165d703ac1b0acb43190bb29ce38ca53506c70e2d56f"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "41fbddad14b67a342e35eb7d2c96cfb555014c0f9c0e1e2866a3d2516a33c971"
+hash = "87225b53fc99a1bd3175357d9b7d359924877f30656550e563d16caa4a9373e1"
 metafile = true
 
 [[files]]
